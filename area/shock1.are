@@ -1,0 +1,108 @@
+#AREADATA
+Name        Spirit Forest~
+Levels      0 0
+Builders    Shock~
+VNUMs       200 299
+Security    100
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#200
+Katrina~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 1000 S
+35000 0 0 2147400000d0+0 0d0+0
+0 0
+0 0 2
+0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#200
+gift shock~
+&zSh&Oo&zck's &rGift~
+A strange box lies on the floor.~
+~
+8 0 0 0 16385 0 0
+0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+1 10 0
+0
+0 0
+5 0
+golden aura~
+10 10
+0 0 0
+A
+17 -50
+A
+2 2
+A
+107 -1
+A
+12 20
+A
+13 20
+#201
+firecracker~
+&Ra firecracker~
+A small explosive lies here on the ground.~
+~
+36 0 0 0 16385 0 0
+0~ 0~ 1~ 1~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0
+0
+0 0
+0 0
+reserved~
+0 0
+0 0 0
+#202
+brick~
+&ra brick of firecrackers~
+A brick of firecrackers is here aginst the wall.~
+~
+15 0 0 0 1 0 0
+100000~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0
+0
+0 0
+0 0
+reserved~
+0 0
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,224 @@
+#AREADATA
+Name        The Arena~
+Levels      0 0
+Builders    None~
+VNUMs       25201 25209
+Security    1
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#25201
+~
+You are standing in a battleing arena.  That means 1 of 2 things, You
+have challenged someone Or someone has challenged you eather way good luck. 
+Looking around you see a large stadium.  The ground is covered in dirt and
+sand.  In some parts of the arena there is blood on the ground.  Looking up
+you see birds flying overhead.  There is a light breeze here.  It looks like
+it might rain a little later.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 25204
+0
+D2
+~
+~
+0 0 25202
+0
+S
+#25202
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 25201
+0
+D1
+~
+~
+0 0 25205
+0
+D2
+~
+~
+0 0 25203
+0
+S
+#25203
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 25202
+0
+D1
+~
+~
+0 0 25206
+0
+S
+#25204
+~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 25207
+0
+D2
+~
+~
+0 0 25205
+0
+D3
+~
+~
+0 0 25201
+0
+S
+#25205
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 25204
+0
+D1
+~
+~
+0 0 25208
+0
+D2
+~
+~
+0 0 25206
+0
+D3
+~
+~
+0 0 25202
+0
+S
+#25206
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 25205
+0
+D1
+~
+~
+0 0 25209
+0
+D3
+~
+~
+0 0 25203
+0
+S
+#25207
+~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 25208
+0
+D3
+~
+~
+0 0 25204
+0
+S
+#25208
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 25207
+0
+D2
+~
+~
+0 0 25209
+0
+D3
+~
+~
+0 0 25205
+0
+S
+#25209
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 25208
+0
+D3
+~
+~
+0 0 25206
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

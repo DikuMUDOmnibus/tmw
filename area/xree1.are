@@ -1,0 +1,378 @@
+#AREADATA
+Name        The Enclave~
+Levels      0 0
+Builders    Xree~
+VNUMs       2600 2699
+Security    1
+Recall      25000
+Flags       16
+Color       6
+Sounds      The sound of marching footsteps and conversations fill the air~
+End
+
+
+
+#MOBILES
+#2600
+mptester~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 0 S
+0 0 0 0d0+0 0d0+0
+0 0 0 0
+0 0 0
+0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#2600
+key~
+(no short description)~
+(no description)~
+~
+18 0 0 0 1 0 0
+0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#2600
+Outside Airlock 12~
+The ship wich brought you here disappears to the south leaving you alone
+on the deck of this giant sea-bound platform. The flat concrete surface is
+almost devoid of features save, for a single square structure standing alone
+in the middle of the platform. Upon closer inspeaction the structure appears
+to be some kind of entrance way. Its metal door standing in place barring
+entry from unwanted guests. Near the door is a small metalic panel with
+numbers and a display screen, apparantly this looks to be some kind
+of locking mechanism.
+~
+0 1036 1
+Rd     0
+D0
+~
+~
+83 0 2601
+0
+S
+#2601
+Inside AirLock 12~
+The door opens up to a short metalic corridor illuminated by dull red
+lights wich line the walls. The iron grating on the floor covers long
+pipes wich lead to vents along the base of the floor and up along the
+walls. The lights along the walls begin to flash and gas begins to flood
+from the vents and fill the corridor, clouding vision and filling lungs
+with an acrid gas, that burns as it passes through your body. As quickly
+as it appears the gas washes away. A voice suddenly echoes through the
+corridor, "Decontamination sequence, complete. You May proceed."
+The lights slowly begin to flash leading to a door at the northern most
+end of the corridor.
+~
+0 1024 0
+Rd     0
+D0
+~
+~
+83 0 2602
+0
+D2
+~
+~
+83 0 2600
+0
+S
+#2602
+Guard Station~
+The door to the airlock closes behind you and you now stand inside a large
+room. The walls around you are lined with various hazard suits and air tanks
+wich all look to be used frequently. The florecent light overhead glows
+softly lighting up the rooms spacious interior. At the northern most section
+of the room is a ladder leading down into the platforms inner works.
+Beside the ladder stand two men....you think, wearing sleak metalic armor
+it's polished finish shining under the glow of the lights. As the figures
+move and shift the sounds of servos and hydraulics can be heard emenating
+from within their suits. As they notice you step from the airlock you feel
+them casting you an appraising gaze.
+~
+0 0 0
+Rd     0
+D2
+~
+~
+83 0 2601
+0
+D5
+~
+~
+0 0 2603
+0
+S
+#2603
+Enclave Entrance~
+Descending the ladder you come into a room with off green walls made of
+some kind of metal that you cant quite indentify. As you look around long
+the dull hum of the florecent lights can be heard. The hard floor thumps
+loudly under the heel of your shoes as you move around your surroundings.
+You see three metalic doors all of them lacking handles or knobs, and instead
+having a small numeric keypad.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+83 0 2604
+0
+D3
+~
+~
+83 0 2605
+0
+D4
+~
+~
+0 0 2602
+0
+S
+#2604
+Lift Access~
+As your enter the room you look around a notice that you are not alone
+In the north-west corner of the room there is an elevator leading to
+other locations of the compound guarded by another man clothed in the
+same black power armor you saw earlier. In the reast of the corners
+robotic sentry guns train on your location filling you with a feeling
+of unwant.
+~
+0 0 0
+Rd     0
+E
+lift~
+Looking at the lift you see it leads to the next lower level of the compound
+there looks to be a label next to the number but the text seems to have long
+worn off.
+~
+D2
+~
+~
+83 0 2603
+0
+S
+#2605
+Enclave Security Station~
+You pass through the door into another room, this one containing a long
+wooden desk, behind wich a man dressed in what looks to be some kind of
+light security armor sits looking over vid screens and paper work. As
+he sees you enter he eyes you suspiciously and watches your movements
+Along the walls you notice that once again your movements arent only
+being followed by human eyes but also the mechanical eyes of a pair
+of sentry guns. Looking around you also see three doors one, on the north
+and south side, as well as a large security door on the west wall behind
+the desk.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+83 0 2606
+0
+D1
+~
+~
+83 0 2603
+0
+D2
+~
+~
+83 0 2607
+0
+D3
+~
+~
+119 2600 2608
+0
+S
+#2606
+Mess Hall~
+The sound of bustling footsteps and cluttered chatter greet you as you enter
+the room. Long rows of tables filled with people eating line the floor.
+ To the north east theres a door swinging back on its hinges as people
+ quickly enter and exit from it while far to the east there is another door,
+this ones window is filled with flashing lights
+~
+0 0 0
+Rd     0
+D2
+~
+~
+83 0 2605
+0
+D3
+~
+~
+0 0 2614
+0
+S
+#2607
+Locker Room~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+83 0 2605
+0
+D1
+~
+~
+0 0 2610
+0
+D2
+~
+~
+0 0 2609
+0
+S
+#2608
+Research Elevator~
+The room is lit by a dull glowing strip of light wich runs along the
+walls bringing everything into view. Your standing in a small room
+the familiar dull green of the buildings metalic walls has now
+taken on a darker hue, and the air now has the faint scent of
+sterility lurking about. On the eastern wall large armored elevator
+doors lie closed, and a small metal pannel with a numeric keypad
+blinks and flashes beside the elevator doors. In north and south-
+eastern top corners of the rooms, the barrels of two automatic
+sentry guns swivel down and monitor your movements.
+~
+0 0 0
+Rd     0
+D1
+~
+~
+119 2600 2605
+0
+S
+#2609
+Locker Room~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2607
+0
+D1
+~
+~
+0 0 2612
+0
+D2
+~
+~
+83 0 2611
+0
+S
+#2610
+Locker Room~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 2612
+0
+D3
+~
+~
+0 0 2607
+0
+S
+#2611
+Mens Bathroom~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+83 0 2609
+0
+S
+#2612
+Locker Room~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2610
+0
+D1
+~
+~
+83 0 2613
+0
+D3
+~
+~
+0 0 2609
+0
+S
+#2613
+Womans Bathroom~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+83 0 2612
+0
+S
+#2614
+Mess Hall~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2606
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

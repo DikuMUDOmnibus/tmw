@@ -1,0 +1,434 @@
+#AREADATA
+Name        Zion~
+Levels      0 0
+Builders    Mortis~
+VNUMs       3000 3399
+Security    1
+Recall      25000
+Flags       16
+Color       6
+Sounds      The sounds of the human world seem to come alive suddenly~
+End
+
+
+
+#MOBILES
+#3000
+Sentry guard machine armed~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 1000 S
+150 0 0 1000d0+0 0d0+0
+0 0
+0 0 0
+0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#3000
+sign~
+a sign listing the floors~
+~
+~
+13 0 0 0 0 0 1
+0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0
+0
+0 0
+reserved~
+0 0
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#3000
+Gate 1~
+&w The people of Zion hustle about here.  Most greet thier loved ones as
+&w they return from the surface while some go to the docked ships to plug in
+and do what they have to do.  The other docks seem to form a circle around
+the path leading south and down farther into the earth.  To the east and
+west the path of this metal walkway continues around to the other gates.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3001
+0
+D2
+~
+~
+0 0 3008
+0
+D3
+~
+~
+0 0 3007
+0
+S
+#3001
+Gate 2~
+&w Large mechanical sentrys piloted by humans patrol the docks guarding
+against an attack by the machines.  A ship is docked to the north recharging
+so it may go back to the surface.  The metal walkway leads west and south as
+it makes a large circle for the ships coming home to dock at.  
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 3002
+0
+D3
+~
+~
+0 0 3000
+0
+S
+#3002
+Gate 3~
+&w Many of the people of Zion can be seen walking around here either
+waiting &w for loved ones to return from the surface, preparing to go their
+themselves, or just heading to one of the docked ships to get some simulator
+time before heading back into the matrix.  Ships can be seen coming in to
+dock while others leave out to head back to the surface.  Large human
+piloted sentrys patrol the docks helping to defend against an attack by the
+machines.  The walkway continues north and south.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3001
+0
+D2
+~
+~
+0 0 3003
+0
+S
+#3003
+Gate 4~
+&w Ships coming home and those going to the surface can be seen in all
+directions from here.  Large mechanical sentrys walk around the docks
+guarding it from the ever present threat of an attack from the machines. 
+This metal walkway continues north and west from here circling the path down
+into Zion from gate 1.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3002
+0
+D3
+~
+~
+0 0 3004
+0
+S
+#3004
+Gate 5~
+&w Armed sentrys patrol through here keeping an eye out for the ever
+present threat of the machines.  Ships have docked here for recharging while
+thier crews are at home visiting families before they return to the surface.
+Some people have chosen to come to the ships while they recharge to use the
+simulators to better prepare themselves for thier next trip into the matrix
+This metal walkway continues east and west from here.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3003
+0
+D3
+~
+~
+0 0 3005
+0
+S
+#3005
+Gate 6~
+&w Ships pull up and dock as others leave for the surface.  Some people
+stand around with tears in thier eyes as they watch loved ones leave on a
+journey they may not return from.  Armed sentrys walk around the area
+ensuring safty for the people of Zion should the machines try to attack the
+city.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3006
+0
+D1
+~
+~
+0 0 3004
+0
+S
+#3006
+Gate 7~
+&w Armed sentrys patrol the docks here as familys say goodbye to thier
+loved ones that are heading for the surface.  Many ships can be seen docking
+and leaving while the looks of on the faces of the people here tell of thier
+worries without them saying a word.  This metal walkway around the docks
+leads north and south of here.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3007
+0
+D2
+~
+~
+0 0 3005
+0
+S
+#3007
+Gate 8~
+&w The armed sentrys walk around guarding Zion and it people from the
+threat of a machine attack.  Ships dock and leave almost constantly around
+here though some are docked for a long period of time and may be boarded for
+simulator use.  Many people stand around watching the ships thier family
+members are on leave or arrive with much worry in thier eyes.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3000
+0
+D2
+~
+~
+0 0 3006
+0
+S
+#3008
+Path to the City~
+&w This tunnel connects the city of Zion to the docks where the ships
+recharge between trips to the surface.  Its is a well carved out hole with a
+metal grate floor that looks walked on but not worn out.  South will lead
+one to the enterance to the city of Zion itself while north leads to the
+docks where the ships to go to the surface are.  
+~
+0 4 0
+Rd     0
+D0
+~
+~
+0 0 3000
+0
+D2
+~
+~
+0 0 3009
+0
+S
+#3009
+Enterance to Zion~
+&w Below here one can see most of the city of Zion.  The people look like
+ants from this height but the sight of the last human city is breath taking.
+Large stone building dominate the veiw and the many lights from the
+buildings add to its beauty.  To reach the city one must take the elevator
+down.  North of here the docks for the ships can be found.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3008
+0
+D3
+~
+~
+0 0 3010
+0
+S
+#3010
+Elevator~
+&w This elevator is the means of travel between the many parts of the
+city of Zion.  To operate it one must only speak the name of the floor they
+wish to go to.  A &RSIGN&w here lists the floors and what can be found on
+them.  
+~
+0 4 0
+Rd     0
+S
+>pass_prog ~
+0
+~
+>pass_prog ~
+0
+~
+>enter_prog ~
+0
+~
+|
+#3011
+Housing Sector~
+This is the section of Zion where the housing for the people is.  It is
+very wide open with lifts to the different levels of the large stone houses.
+The are built very apartment like with multiple homes side by side and row
+upon row.  East of here if the lift to go to a different level of homes
+while south is the elevator to go to a different floor of Zion.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3013
+0
+D1
+~
+~
+0 0 3012
+0
+D2
+~
+~
+0 0 3011
+0
+S
+#3012
+Lift~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 3011
+0
+S
+#3013
+Housing Sector~
+People walk all about here going to their homes or over to visit friends
+and family.  Many children playing with balls and other toys can be seen in
+the space between the homes and the elevator.  The houses are in rows to the
+east and west from here.  They all have large iron doors that latch tightly
+into the rock walls.  
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 3011
+0
+S
+#3014
+Ground Floor~
+This is the last stop and bottom floor of the city of Zion.  Many things
+are here such as the counsels chambers, the office of the head of Zion
+Security, and the largest cave in the city used for meetings.  Exits lead in
+all directions to one of the above places.  
+~
+0 8 0
+Rd     0
+D0
+~
+~
+0 0 3015
+0
+D2
+~
+~
+0 0 3010
+0
+S
+#3015
+Tunnel to the Defence Department~
+This is the section of the city where Commander Lock, called deadlock by
+his troops, has his office and takes care of the day to day things to insure
+Zion stays safe.  This is where many captains careers begin and end as
+deadlock is know to be very strict.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3016
+0
+D2
+~
+~
+0 0 3014
+0
+S
+#3016
+Tunnel in Defence Department~
+Many soldiers stand around here waiting word from Deadlock about their
+next assignments.  Other wait to get thier turned to be yelled at for what
+they have done wrong.  It is said that Deadlock is the one to see if you
+need to be taught about anything.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 3017
+0
+D2
+~
+~
+0 0 3015
+0
+S
+#3017
+Deadlock's Office~
+The office is very well lit with pappers all around it.  A large metal
+desk sits in the middle of the room with the commander sitting behind it
+reading through paperwork.  Perhaps saying "sir" will get his attention.  
+~
+0 0 0
+Rd     0
+D2
+~
+door~
+3 0 3016
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

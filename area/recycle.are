@@ -1,0 +1,323 @@
+#AREADATA
+Name        recycle~
+Levels      0 0
+Builders    None~
+VNUMs       500 520
+Security    1
+Recall      25000
+Flags       16
+Color       2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#500
+Main St.~
+The south end of Main Street is proliferated by people milling
+about, trying to pick their way amongst the throng of traffic
+created by people coming and going. To the east is the Today's
+News Network local studio, and to the west the Donim City Militia
+recruiting office can barely escape attention with all the
+propaganda holos screaming recruiting slogans at passers-by.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 501
+0
+S
+#501
+Main St.~
+Main Street in Donim City is inexplicably swarmed with advertising of all
+kinds, be it video monitors, animated signs, or the ever intrusive projected
+hologram.  Many advertisers have began to use high-speed retina identifica-
+tion to further annoy potential consumers by calling their name.  Several
+city activists have lobbied to ban this calling it 'too distracting'.  
+To the west the Donim City Works Department blocks much of the view of the
+upper levels of the city. East is the mysterious Ultimax Industries Head-
+quarters.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 502
+0
+D2
+~
+~
+0 0 500
+0
+S
+#502
+Main St.~
+Donim City's crime rate has been a topic of much debate. It is
+because of the ammount of crime that the 'Armed Citizen Act' was
+passed. Allowing citizens to carry protection at all times can have
+some adverse affects however, and many public business have a
+weapon check booth at the front. East is Garm's Personal Defense
+Depot, and in a fit of irony, the Morgue is just across the street
+to the west.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 503
+0
+D2
+~
+~
+0 0 501
+0
+D3
+~
+~
+0 0 512
+0
+S
+#503
+Main St.~
+As the population of Donim City grew, so did the city. In
+fact, since Donim City is enclosed in a dome, they had to find
+new ways to expand their city. Several layers of the city lie
+above this one, crawling with activity. Nothing compares to the
+spectacular business of Main Street, Donim City though. To the
+east is the most trafficked convenience store in the city, the
+local twentyfour-seven. Just off to the west is the City Community
+Center, where citizens are allowed to recall to.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 504
+0
+D2
+~
+~
+0 0 502
+0
+S
+#504
+Main St.~
+Central Main Street is thoroughly congested with traffic at all
+hours of the day. One could wonder just how many people pass though
+in just one hour. Donim City Hall stands majestically to the east.
+Broad limestone steps ascend at least thiry meters, where white
+marble pillars contrast the black onyx tile of the enclave. University
+Avenue leads off to the west.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 505
+0
+D1
+~
+~
+0 0 510
+0
+D2
+~
+~
+0 0 503
+0
+S
+#505
+Main St.~
+Donim City is an impressive masterpiece of concrete and steel. The
+massive dome was constructed from over three thousand metric tons
+of steel. A network of secure mining shafts stretch for several
+kilometers beneath the city to provide the materials needed to keep
+production moving in the city. To the west stands the Miner's Guild,
+a workers union for those that toil to keep the raw materials flowing
+into the city. Across the street to the east is the Simulated Reality
+Coorporation's local simulator hub, where customizable training is
+available.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 506
+0
+D2
+~
+~
+0 0 504
+0
+S
+#506
+Main St.~
+Donim City certainly isn't short of commerce. The economy of the
+city has produced over sixty billion credits worth of industry. A
+good deal of this money is handled by Donim First Financial, which
+lies to west. East is the city's first and foremost authority on
+magical items, Azaalin's Olde Time Magyk Shoppe.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 508
+0
+D2
+~
+~
+0 0 505
+0
+S
+#507
+~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 506
+0
+S
+#508
+Main St.~
+From one end of the dome to the other Donim City is filled with
+people. This leaves very little room for the hyrdrogesic farms
+or pasture land. Because of this fresh vegetables and meat are
+quite expensive. In fact, if you aren't willing to dine on a 
+little vermin, the only meat available is chicken. Chickens are
+in great demand and the price remains high. Pete's Poultry, one
+of the more popular chicken suppliers, is east. Main
+Street Market is to the west.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 509
+0
+D2
+~
+~
+0 0 506
+0
+S
+#509
+Main St.~
+As Broadway spills onto Main Street people of all walks of life
+mingle with eachother, Dwarven miners walk right past Elven cyborgs
+without giving them a second thought. Elves also have lost their
+affinity for nature, and have adapted to city life. To the north
+Broadway is a spectacle of lights. East is Kreel's Cybernetics.
+West lies the Teffrin Tavern.
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 508
+0
+S
+#510
+The Concourse~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 504
+0
+D4
+~
+~
+0 0 511
+0
+S
+#511
+The Steps~
+Amidst the great stairs of City Hall are several very official looking
+individuals. Some gathered in small groups discussing whatever matter
+they may be. Each one seems assured of his own importance. Down, and to
+the west lies Main Street, the doors to City Hall are east.
+~
+0 0 0
+Rd     0
+D5
+~
+~
+0 0 510
+0
+S
+#512
+Entrance to the Morgue~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 502
+0
+D3
+~
+~
+3 0 513
+0
+S
+#513
+The Morgue~
+The Morgue is a dry, stale room. The stench of death and decay
+hangs in the air. The lighting is dim, and the room is fairly
+plain except for a steel slab in the center.
+~
+0 0 0
+Rd     0
+D1
+~
+~
+3 0 512
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

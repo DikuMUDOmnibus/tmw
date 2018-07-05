@@ -1,0 +1,85 @@
+#PLAYER
+Nm          Mylk~
+ShtDsc      ~
+LngDsc      ~
+Dscr        ~
+Prmpt       <%hhp %mm %vmv> ~
+Sx          1
+Cla         2 -1
+Rce         15
+Wiznet      262144
+Clan        0
+Clvl        0
+Ctmr        0
+Clslvls     0 0 0 0 0 0 0 0 0 0
+Stun        0 0 0 0 0
+WizLev      0
+ClkLev      0
+Kingdom     0
+Lvl         1
+Antidisarm  0
+Trst        0
+Security    0
+Wizbt       0
+Playd       98
+Note        0
+Room        25130
+HpMnMvBp    2 20 0 100 100 0 100 100 0 20 20 0
+Charisma    0
+Gold	      0
+Silver      0
+Copper      0
+GRank       0
+Guild       ~
+Exp         0
+Act         654313032
+Act2        8
+AffdBy      0
+AffdBy2     0
+AffdBy3     0
+ImmBits     0
+ResBits     0
+VulBits     0
+Pos         7
+Prac        21
+SavThr      0
+Align       0
+SAlign      N
+Hit         0
+Dam         0
+Armr        100
+Wimp        0
+Deaf        0
+Warpts      0
+Pkills      0
+Pkilled     0
+Arenawon    0
+Arenalost   0
+Incarnat    0
+Raisepts    0
+Corpses     0
+Paswd       darkn~
+Mech	  (null)~
+MechDesc	  (null)~
+Bmfin       ~
+Bmfout      ~
+Bmfsee      ~
+Trnsto      ~
+Trnsfrom    ~
+Trnvict     ~
+Slyuc       ~
+Slyrm       ~
+Slyvict     ~
+Afkmes      ~
+Bank   	  0 0 0
+Ttle        ~
+Whotype	  (null)~
+AtrPrm      13 13 13 13 13
+AtrMd       0 0 0 0 0
+Cond        0 100 50
+Pglen       20
+Empower     ~
+Detract     ~
+End
+
+#END

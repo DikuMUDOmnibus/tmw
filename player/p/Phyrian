@@ -1,0 +1,88 @@
+#PLAYER
+Nm          Phyrian~
+ShtDsc      ~
+LngDsc      ~
+Dscr        ~
+Prmpt       <%hhp %mm %vmv> ~
+Sx          1
+Cla         3 -1
+Rce         0
+Wiznet      262144
+Clan        0
+Clvl        0
+Ctmr        0
+Clslvls     0 0 0 0 0 0 0 0 0 0
+Stun        0 0 0 0 0
+WizLev      0
+ClkLev      0
+Kingdom     0
+Lvl         2
+Antidisarm  0
+Trst        0
+Security    0
+Wizbt       0
+Playd       923
+Note        991273774
+Room        25001
+HpMnMvBp    20 20 0 100 100 0 100 100 0 20 20 0
+Charisma    0
+Gold	      0
+Silver      0
+Copper      0
+GRank       0
+Guild       ~
+Exp         0
+Act         554731072
+Act2        8
+AffdBy      0
+AffdBy2     0
+AffdBy3     0
+ImmBits     0
+ResBits     0
+VulBits     0
+Pos         7
+Prac        21
+SavThr      -14
+Align       0
+SAlign      N
+Hit         14
+Dam         0
+Armr        70
+Wimp        0
+Deaf        0
+Warpts      0
+Pkills      0
+Pkilled     0
+Arenawon    0
+Arenalost   0
+Incarnat    0
+Raisepts    0
+Corpses     0
+Paswd       darkness~
+Mech	  (null)~
+MechDesc	  (null)~
+Bmfin       ~
+Bmfout      ~
+Bmfsee      ~
+Trnsto      ~
+Trnsfrom    ~
+Trnvict     ~
+Slyuc       ~
+Slyrm       ~
+Slyvict     ~
+Afkmes      ~
+Bank   	  0 0 0
+Ttle        ~
+Whotype	  (null)~
+AtrPrm      13 13 13 13 13
+AtrMd       0 0 0 0 0
+Cond        0 100 50
+Pglen       20
+Empower     ~
+Detract     ~
+Aff         2  98 -14  24          0 112
+Aff         2  98  14  18          0 112
+Aff        28 112 -30  17          0 112
+End
+
+#END

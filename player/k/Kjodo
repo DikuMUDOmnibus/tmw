@@ -1,0 +1,546 @@
+#PLAYER
+Nm          Kjodo~
+Lnm         Atredies ~
+ShtDsc      ~
+LngDsc      ~
+Dscr        ~
+Prmpt       %R %r %z mem[%p]~
+Sx          1
+Cla         1 -1
+Rce         14
+Wiznet      4194301
+Clan        2
+Clvl        0
+Ctmr        0
+Clslvls     0 0 0 0 0 0 0 0 0 0
+Stun        0 0 0 0 0
+WizLev      213
+ClkLev      213
+Kingdom     0
+Lvl         213
+Antidisarm  0
+Trst        0
+Security    100
+Wizbt       0
+Playd       1923971
+Note        1066094603
+Room        14
+HpMnMvBp    32000 30000 2000 30300 30000 300 30000 30000 0 20 20 0
+Charisma    0
+Gold        443618
+GRank       0
+Guild       ~
+Exp         25013581
+Act         -1560275384
+Act2        10
+AffdBy      0
+AffdBy2     0
+AffdBy3     0
+ImmBits     0
+ResBits     0
+VulBits     0
+Pos         7
+Prac        43
+SavThr      -1600
+Align       -1000
+SAlign      N
+Hit         99999
+Dam         999999
+Armr        -600
+Wimp        0
+Deaf        0
+Warpts      123
+Pkills      9
+Pkilled     9
+Arenawon    0
+Arenalost   1
+Incarnat    0
+Raisepts    0
+Dimension   0
+Corpses     1
+Paswd       Feelixxx~
+Mech	  ~
+MechDesc	  ~
+Bmfin       grunts as he lands hard on the ground in front of you.~
+Bmfout      Hah sucker!!! Kjodo left the room.~
+Bmfsee      ~
+Trnsto      ~
+Trnsfrom    ~
+Trnvict     ~
+Slyuc       ~
+Slyrm       ~
+Slyvict     ~
+Afkmes      ~
+Bank        0
+Ttle        &R[&BStRaIgHt&RJaCkEt&B]&W~
+Whotype	  &BDegradation~
+AtrPrm      18 13 13 13 13
+AtrMd       -1 -1 0 -1 0
+Cond        0 100 50
+Pglen       20
+Empower     cset~
+Detract     ~
+Skll        100 'reserved'
+Skll        100 'acid blast'
+Skll        100 'animate dead'
+Skll        100 'armor'
+Skll        100 'astral walk'
+Skll        100 'bless'
+Skll        100 'blindness'
+Skll        100 'bloodbath'
+Skll        100 'burning hands'
+Skll        100 'call lightning'
+Skll        100 'cause critical'
+Skll        100 'cause light'
+Skll        100 'cause serious'
+Skll        100 'change sex'
+Skll        100 'charm person'
+Skll        100 'chill touch'
+Skll        100 'colour spray'
+Skll        100 'continual light'
+Skll        100 'control weather'
+Skll        100 'create food'
+Skll        100 'create spring'
+Skll        100 'create water'
+Skll        100 'cure blindness'
+Skll        100 'cure critical'
+Skll        100 'cure light'
+Skll        100 'cure poison'
+Skll        100 'cure serious'
+Skll        100 'curse'
+Skll        100 'detect evil'
+Skll        100 'detect hidden'
+Skll        100 'detect invis'
+Skll        100 'detect magic'
+Skll        100 'detect poison'
+Skll        100 'dispel evil'
+Skll        100 'dispel magic'
+Skll        100 'earthquake'
+Skll        100 'enhance blade'
+Skll        100 'energy drain'
+Skll        100 'faerie fire'
+Skll        100 'faerie fog'
+Skll        100 'fireball'
+Skll        100 'fireshield'
+Skll        100 'flamestrike'
+Skll        100 'fly'
+Skll        100 'gate'
+Skll        100 'giant strength'
+Skll        100 'eternal intellect'
+Skll        100 'goodberry'
+Skll        100 'harm'
+Skll        100 'heal'
+Skll        100 'iceshield'
+Skll        100 'icestorm'
+Skll        100 'identify'
+Skll        100 'vibrate'
+Skll        100 'infravision'
+Skll        100 'incinerate'
+Skll        100 'invis'
+Skll        100 'know alignment'
+Skll        100 'lightning bolt'
+Skll        100 'locate object'
+Skll        100 'magic missile'
+Skll        100 'mana'
+Skll        100 'mass invis'
+Skll        100 'pass door'
+Skll        100 'aura of peace'
+Skll        100 'permenancy'
+Skll        100 'poison'
+Skll        100 'portal'
+Skll        100 'protection evil'
+Skll        100 'refresh'
+Skll        100 'remove curse'
+Skll        100 'sanctuary'
+Skll        100 'scry'
+Skll        100 'shield'
+Skll        100 'shocking grasp'
+Skll        100 'shockshield'
+Skll        100 'sleep'
+Skll        100 'spell bind'
+Skll        100 'stone skin'
+Skll        100 'summon'
+Skll        100 'teleport'
+Skll        100 'ventriloquate'
+Skll        100 'weaken'
+Skll        100 'word of recall'
+Skll        100 'acid breath'
+Skll        100 'fire breath'
+Skll        100 'frost breath'
+Skll        100 'gas breath'
+Skll        100 'lightning breath'
+Skll        100 'summon swarm'
+Skll        100 'summon pack'
+Skll        100 'summon demon'
+Skll        100 'backstab'
+Skll        100 'double backstab'
+Skll        100 'palm'
+Skll        100 'bash'
+Skll        100 'disarm'
+Skll        100 'dodge'
+Skll        100 'dual'
+Skll        100 'eighth attack'
+Skll        100 'enhanced damage'
+Skll        100 'enhanced damage two'
+Skll        100 'enhanced hit'
+Skll        100 'feed'
+Skll        100 'fifth attack'
+Skll        100 'fourth attack'
+Skll        100 'hide'
+Skll        100 'iron grip'
+Skll        100 'flury'
+Skll        100 'kick'
+Skll        100 'high kick'
+Skll        100 'jump kick'
+Skll        100 'spin kick'
+Skll        100 'parry'
+Skll        100 'peek'
+Skll        100 'pick lock'
+Skll        100 'poison weapon'
+Skll        100 'punch'
+Skll        100 'jab punch'
+Skll        100 'kidney punch'
+Skll        100 'cross punch'
+Skll        100 'roundhouse punch'
+Skll        100 'uppercut punch'
+Skll        100 'rescue'
+Skll        100 'second attack'
+Skll        100 'seventh attack'
+Skll        100 'sixth attack'
+Skll        100 'sneak'
+Skll        100 'steal'
+Skll        100 'third attack'
+Skll        100 'general purpose'
+Skll        100 'high explosive'
+Skll        100 'adrenaline control'
+Skll        100 'agitation'
+Skll        100 'aura sight'
+Skll        100 'awe'
+Skll        100 'ballistic attack'
+Skll        100 'biofeedback'
+Skll        100 'cell adjustment'
+Skll        100 'chameleon power'
+Skll        100 'chaos field'
+Skll        100 'combat mind'
+Skll        100 'complete healing'
+Skll        100 'control flames'
+Skll        100 'create sound'
+Skll        100 'death field'
+Skll        100 'detonate'
+Skll        100 'disintegrate'
+Skll        100 'displacement'
+Skll        100 'domination'
+Skll        100 'ectoplasmic form'
+Skll        100 'ego whip'
+Skll        100 'energy containment'
+Skll        100 'enhance armor'
+Skll        100 'enhanced strength'
+Skll        100 'flesh armor'
+Skll        100 'heighten senses'
+Skll        100 'inertial barrier'
+Skll        100 'inflict pain'
+Skll        100 'intellect fortress'
+Skll        100 'lend health'
+Skll        100 'levitation'
+Skll        100 'mental barrier'
+Skll        100 'mind thrust'
+Skll        100 'project force'
+Skll        100 'psionic blast'
+Skll        100 'psychic crush'
+Skll        100 'psychic drain'
+Skll        100 'psychic healing'
+Skll        100 'shadow form'
+Skll        100 'share strength'
+Skll        100 'thought shield'
+Skll        100 'ultrablast'
+Skll        100 'cancellation'
+Skll        100 'throw'
+Skll        100 'turn undead'
+Skll        100 'mental block'
+Skll        100 'patch'
+Skll        100 'flamesphere'
+Skll        100 'bash door'
+Skll        100 'mental drain'
+Skll        100 'drain life'
+Skll        100 'holy strength'
+Skll        100 'curse of nature'
+Skll        100 'detect good'
+Skll        100 'protection good'
+Skll        100 'shield block'
+Skll        100 'enchantment'
+Skll        100 'turn evil'
+Skll        100 'mass shield'
+Skll        100 'gouge'
+Skll        100 'holy sword'
+Skll        100 'summon angel'
+Skll        100 'holy fires'
+Skll        100 'true sight'
+Skll        100 'blade barrier'
+Skll        100 'alchemy'
+Skll        100 'scribe'
+Skll        100 'flame blade'
+Skll        100 'chaos blade'
+Skll        100 'frost blade'
+Skll        100 'stun'
+Skll        100 'berserk'
+Skll        100 'web'
+Skll        100 'hold'
+Skll        100 'dark blessing'
+Skll        100 'bio-acceleration'
+Skll        100 'confusion'
+Skll        100 'mind probe'
+Skll        100 'haste'
+Skll        100 'trip'
+Skll        100 'dirt kick'
+Skll        100 'chain lightning'
+Skll        100 'meteor swarm'
+Skll        100 'psychic quake'
+Skll        100 'fumble'
+Skll        100 'dancing lights'
+Skll        100 'shadow walk'
+Skll        100 'circle'
+Skll        100 'summon shadow'
+Skll        100 'summon beast'
+Skll        100 'summon treant'
+Skll        100 'shatter'
+Skll        100 'molecular unbinding'
+Skll        100 'phase shift'
+Skll        100 'disrupt'
+Skll        100 'soulstrike'
+Skll        100 'healing hands'
+Skll        100 'pray'
+Skll        100 'spellcraft'
+Skll        100 'multiburst'
+Skll        100 'hex'
+Skll        100 'dark ritual'
+Skll        100 'gravebind'
+Skll        100 'field of decay'
+Skll        100 'stench of decay'
+Skll        100 'enhanced claws'
+Skll        100 'dual claws'
+Skll        100 'fast healing'
+Skll        100 'rage'
+Skll        100 'bite'
+Skll        100 'adrenaline rush'
+Skll        100 'howl of fear'
+Skll        100 'scent'
+Skll        100 'frenzy'
+Skll        100 'enhanced reflexes'
+Skll        100 'rake eyes'
+Skll        100 'song of sanctuary'
+Skll        100 'missiles'
+Skll        100 'voices'
+Skll        100 'song of evil sight'
+Skll        100 'icy touch'
+Skll        100 'song of alignment'
+Skll        100 'night vision'
+Skll        100 'fiery touch'
+Skll        100 'soothing'
+Skll        100 'song of identify'
+Skll        100 'sight'
+Skll        100 'flight'
+Skll        100 'enticement'
+Skll        100 'vision'
+Skll        100 'giants'
+Skll        100 'seeing'
+Skll        100 'location'
+Skll        100 'invisibility'
+Skll        100 'homeward bound'
+Skll        100 'poison sight'
+Skll        100 'shielding'
+Skll        100 'boosting'
+Skll        100 'song of acid blast'
+Skll        100 'song of colour spray'
+Skll        100 'song of hidden sight'
+Skll        100 'song of cursing'
+Skll        100 'song of earthquake'
+Skll        100 'song of faerie fire'
+Skll        100 'song of astral travel'
+Skll        100 'song of the ghosts'
+Skll        100 'song of revealing'
+Skll        100 'song of stone'
+Skll        100 'lullaby'
+Skll        100 'song of fiery death'
+Skll        100 'song of cancellation'
+Skll        100 'song of sight'
+Skll        100 'song of fireshield'
+Skll        100 'song of portal'
+Skll        100 'song of healing'
+Skll        100 'track'
+Skll        100 'headbutt'
+Skll        100 'pass plant'
+Skll        100 'flamehand'
+Skll        100 'frosthand'
+Skll        100 'chaoshand'
+Skll        100 'bladepalm'
+Skll        100 'flying kick'
+Skll        100 'anatomy knowledge'
+Skll        100 'blackbelt'
+Skll        100 'nerve'
+Skll        100 'soulbind'
+Skll        100 'iron skin'
+Skll        100 'chi shield'
+Skll        100 'ironfist'
+Skll        100 'Globe of Darkness'
+Skll        100 'drow fire'
+Skll        100 'snatch'
+Skll        100 'enhanced damage three'
+Skll        100 'retreat'
+Skll        100 'antidote'
+Skll        100 'haggle'
+Skll        100 'blind fighting'
+Skll        100 'enhanced dodge'
+Skll        100 'ethereal mist'
+Skll        100 'mist form'
+Skll        100 'golden aura'
+Skll        100 'shriek'
+Skll        100 'acidic spit'
+Skll        100 'ward of safety'
+Skll        100 'ward of healing'
+Skll        100 'thunder strike'
+Skll        100 'inspiration'
+Skll        100 'warcry'
+Skll        100 'group healing'
+Skll        100 'chant'
+Skll        100 'aid'
+Skll        100 'bark skin'
+Skll        100 'blur'
+Skll        100 'firewall'
+Skll        100 'draw strength'
+Skll        100 'scrolls'
+Skll        100 'wands'
+Skll        100 'staves'
+Skll        100 'Archery'
+Skll        100 'farsight'
+Skll        100 'silence'
+Skll        100 'lure'
+Skll        100 'flip'
+Skll        100 'counter'
+Skll        100 'image'
+Skll        100 'unholy strength'
+Skll        100 'doomshield'
+Skll        100 'transmute'
+Skll        100 'purify'
+Skll        100 'awareness'
+Skll        100 'dragonpunch'
+Skll        100 'tornado'
+Skll        100 'flare'
+Skll        100 'remove blessing'
+Skll        100 'bullet shot'
+Skll        100 'energy shot'
+Skll        100 'creation'
+Skll        100 'duplicate'
+Skll        100 'combination'
+Skll        100 'disarming'
+Skll        100 'loadplayer'
+Skll        100 'dial'
+End
+
+#OBJECT
+Nest         0
+Name         ultimax powerarmor~
+ShortDescr   ultimax P200 Power Armor~
+Description  There is an error in this room. You need Kjodo to fix it.~
+Vnum         75
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    46206393
+WearLoc      203346672
+BionicFlags  0
+BionicLoc    -1
+ItemType     38
+Weight       0
+Level        210
+Timer        -1
+Dimension    0
+Cost         0
+Values       0 10 10 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      0
+reserved~
+Soak   10
+Mounts    10
+End
+
+#OBJECT
+Nest         0
+Name         cellphone~
+ShortDescr   a cell phone~
+Description  A cell phone sits here, obviously someone forgot it.~
+Vnum         78
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    1
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     40
+Weight       0
+Level        0
+Timer        -1
+Dimension    0
+Cost         0
+Values       0 1 3293409 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+Number     1
+End
+
+#OBJECT
+Nest         0
+Name         machinegun gun~
+ShortDescr   .50 calibur machinegun~
+Description  A .50 calibur machine gun sits here rusting.~
+Vnum         69
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    16385
+WearLoc      8388608
+BionicFlags  0
+BionicLoc    -1
+ItemType     32
+Weight       10
+Level        0
+Timer        -1
+Dimension    0
+Cost         0
+Values       0 20 50 73 10 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      0
+reserved~
+Range   20
+Calibur  50
+Clip   73
+ROF    10
+End
+
+#OBJECT
+Nest         1
+Name         drum clip~
+ShortDescr   a drum clip~
+Description  A large drum clip sits here, waiting to be loaded.~
+Vnum         73
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    16385
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     34
+Weight       0
+Level        0
+Timer        -1
+Dimension    0
+Cost         0
+Values       0 250 50 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      0
+reserved~
+Calibur    250
+End
+
+#END

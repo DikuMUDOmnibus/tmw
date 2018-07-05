@@ -1,0 +1,87 @@
+#AREADATA
+Name        mike1~
+Levels      0 0
+Builders    Mike~
+VNUMs       2300 2399
+Security    1
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#2300
+A Battleing Arena~
+~
+0 4 0
+Rd     0
+D0
+~
+~
+0 0 2301
+0
+D3
+~
+~
+0 0 0
+0
+S
+#2301
+~
+~
+0 4 0
+Rd     0
+D0
+~
+~
+0 0 2302
+0
+D2
+~
+~
+0 0 2300
+0
+S
+#2302
+~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 2301
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

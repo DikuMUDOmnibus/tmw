@@ -1,0 +1,547 @@
+#AREADATA
+Name        Malacore~
+Levels      0 0
+Builders    Rafon~
+VNUMs       3400 3499
+Security    100
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#3400
+Dragonfly~
+&cD&Cra&Wgon&Cfl&cy~
+&cA D&Cra&Wgon&Cfl&cy swarms around your head.
+~
+&c Buzzzzzzzz
+~
+3 524288 0 0 S
+2 0 0 95d0+0 0d0+0
+2 0
+0 0 0
+0
+0 0 0
+#3401
+Bird~
+&cA&C Sm&Bal&cl&B Bi&cr&Cdy&c hops before you.~
+&cA&C Sm&Bal&cl&B Bi&cr&Cdy&c hops before you.
+~
+&BEven though it is really small it is easily noticed. Beautiful blue wings extend out of it's back. It's bright cyan beak can be seen from miles away.Nothing can compare beauty. It is one of few that the king loves so much. 
+~
+65 0 0 0 S
+2 0 0 35d0+0 0d0+0
+3 0
+0 0 0
+0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#3400
+&CT&che &CGat&ces o&Cf &cM&Cal&cac&Co&cre~
+&c Huge gates stand before you decorated with intricate designs of vines
+and leaves.  The city of Malacore stands behind these gates awaiting your
+arrival.  From here you can see the palace from a distance.  It's a
+beautiful sight to see.  You only wish that someday you'll have a place in
+the Palace.  Malacore has been said to be the most peaceful city of them
+all.  Those who dare upset the king will find out it is not.  
+~
+0 0 0
+Rd     0
+D4
+~
+~
+0 0 3401
+0
+S
+#3401
+&CPa&cst &Cth&ce ga&Cte&cs~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3403
+0
+D5
+~
+~
+0 0 3400
+0
+S
+#3402
+&CR&coa&Cd to &cpa&Cla&cce~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 3401
+0
+S
+#3403
+&CR&coa&Cd to &cpa&Cla&cce~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3404
+0
+D2
+~
+~
+0 0 3401
+0
+S
+#3404
+&CR&coa&Cd to &cpa&Cla&cce~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3405
+0
+D1
+~
+~
+0 0 3415
+0
+D2
+~
+~
+0 0 3403
+0
+S
+#3405
+&OAcross the Drawbridge~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3406
+0
+D2
+~
+~
+0 0 3404
+0
+S
+#3406
+&OThe Doors~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3407
+0
+D2
+~
+~
+0 0 3405
+0
+S
+#3407
+&wIn&Wsi&wde &zthe &YP&wal&Wa&Yce~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3408
+0
+D2
+~
+~
+0 0 3406
+0
+S
+#3408
+&RR&red &RCa&rrp&Ret~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3409
+0
+D1
+~
+~
+0 0 3416
+0
+D2
+~
+~
+0 0 3407
+0
+S
+#3409
+&RR&red &RCa&rrp&Ret~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 3408
+0
+D4
+~
+~
+0 0 3410
+0
+S
+#3410
+&RS&rpI&zra&RLli&rnG &wSt&Wair&Wc&za&wse~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3411
+0
+D5
+~
+~
+0 0 3409
+0
+S
+#3411
+&RS&rpI&zra&RLli&rnG &wSt&Wair&Wc&za&wse~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 3410
+0
+D4
+~
+~
+0 0 3412
+0
+S
+#3412
+&RS&rpI&zra&RLli&rnG &wSt&Wair&Wc&za&wse~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 3413
+0
+D5
+~
+~
+0 0 3411
+0
+S
+#3413
+&RS&rpI&zra&RLli&rnG &wSt&Wair&Wc&za&wse~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3414
+0
+D1
+~
+~
+0 0 3412
+0
+S
+#3414
+2nd floor~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 3413
+0
+S
+#3415
+&gResting Area~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 3404
+0
+S
+#3416
+&WBrightly lit Hallway~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3417
+0
+D3
+~
+~
+0 0 3408
+0
+S
+#3417
+&WBrightly lit Hallway~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3418
+0
+D3
+~
+~
+0 0 3416
+0
+S
+#3418
+&WBrightly lit Hallway~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3419
+0
+D3
+~
+~
+0 0 3417
+0
+S
+#3419
+&WBrightly lit Hallway~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3420
+0
+D3
+~
+~
+0 0 3418
+0
+S
+#3420
+&WBrightly lit Hallway~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3421
+0
+D3
+~
+~
+0 0 3419
+0
+S
+#3421
+&wEnd of the Hallway~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 3422
+0
+D3
+~
+~
+0 0 3420
+0
+S
+#3422
+&YYellow Staircase~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3421
+0
+D5
+~
+~
+0 0 3423
+0
+S
+#3423
+&GGa&grd&Ge&gn &GEn&gtr&Ganc&ge~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3425
+0
+D4
+~
+~
+0 0 3422
+0
+S
+#3424
+~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 3423
+0
+S
+#3425
+&BFountain~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3427
+0
+D1
+~
+~
+0 0 3426
+0
+D2
+~
+~
+0 0 3428
+0
+D3
+~
+~
+0 0 3423
+0
+S
+#3426
+&RA&rp&Rpl&re &GT&gr&Ge&ge~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 3425
+0
+S
+#3427
+&RF&Pl&Row&Yer &RB&r&Be&Yd~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 3425
+0
+S
+#3428
+&BB&ci&Cr&Bd B&ca&Bt&Ch~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3425
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 3401 15 3426
+M 0 3401 15 3426
+M 0 3401 15 3426
+M 0 3400 12 3427
+M 0 3400 12 3427
+M 0 3400 12 3427
+M 0 3400 12 3427
+M 0 3400 12 3427
+M 0 3400 12 3427
+M 0 3401 15 3427
+M 0 3401 15 3427
+M 0 3401 15 3427
+M 0 3401 15 3427
+M 0 3401 15 3427
+M 0 3401 15 3427
+M 0 3400 12 3428
+M 0 3400 12 3428
+M 0 3400 12 3428
+M 0 3400 12 3428
+M 0 3400 12 3428
+M 0 3400 12 3428
+M 0 3401 15 3428
+M 0 3401 15 3428
+M 0 3401 15 3428
+M 0 3401 15 3428
+M 0 3401 15 3428
+M 0 3401 15 3428
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

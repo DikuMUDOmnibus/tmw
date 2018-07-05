@@ -1,0 +1,456 @@
+#AREADATA
+Name        clan vnums~
+Levels      0 0
+Builders    None~
+VNUMs       4400 4599
+Security    1
+Recall      25000
+Flags       16
+Color       6
+Sounds      The Sound of enemies crying out makes this all worth your time~
+End
+
+
+
+#MOBILES
+#4400
+techarmy clan guardian~
+&zT&We&wc&Wh&zA&Wr&zm&Wy &WG&zuardia&Wn~
+&zT&We&wc&Wh&zA&Wr&zm&Wy &WG&zuardia&Wn is standing here
+~
+He is here protecting his clan from other clans
+~
+3 504905864 229424 0 S
+230 0 0 100000d0+0 0d0+0
+1000 0 0 0
+0 0 1
+0
+0 0 0
+>greet_prog 213~
+if isclan($n) == 4
+say Welcome back $n. 
+bow
+else
+say Be gone.....$n
+mptransfer $n 25001
+~
+|
+#4401
+techarmy healer~
+&zT&We&wc&Wh&zA&Wr&zm&Wy &WH&zeale&Wr~
+&zT&We&wc&Wh&zA&Wr&zm&Wy &WH&zeale&Wr is standing here
+~
+He is here healing the clans wounds from battle
+~
+3 16512 0 0 S
+230 0 0 100000d0+0 0d0+0
+10000 0 0 0
+0 0 1
+0
+0 0 0
+#4402
+techarmy banker~
+&zT&We&wc&Wh&zA&Wr&zm&Wy &WB&za&Wnke&zr~
+&zT&We&wc&Wh&zA&Wr&zm&Wy &WB&za&Wnke&zr is here
+~
+He is here banking for the clan members
+~
+3 268435456 0 0 S
+230 0 0 100000d0+0 0d0+0
+0 0 0 0
+0 0 1
+0
+0 0 0
+#4403
+techarmy shopkeeper~
+&zT&We&wc&Wh&zA&Wr&zm&Wy &WS&zhopkeepe&Wr~
+&zT&We&wc&Wh&zA&Wr&zm&Wy &WS&zhopkeepe&Wr is standing here
+~
+He is here selling clan eq to the mebers
+~
+3 33570944 0 0 S
+230 0 0 100000d0+0 0d0+0
+100 0 0 0
+0 0 1
+0
+0 0 0
+#4404
+techarmy questmaster~
+&zT&We&wc&zh&WA&zr&Wm&zy &WQ&zuestmaste&Wr~
+&zT&We&wc&zh&WA&zr&Wm&zy &WQ&zuestmaste&Wr is standing here
+~
+He is here handing out quests for clan members
+~
+32771 16777344 0 0 S
+230 0 0 50000d0+0 0d0+0
+100 0 0 0
+0 0 1
+0
+0 0 0
+#4405
+techarmy trainer~
+&zT&We&wc&zh&WA&zr&Wm&zy &WT&zraine&Wr~
+&zT&We&wc&zh&WA&zr&Wm&zy &WT&zraine&Wr is standing here
+~
+He is here training his clan members
+~
+515 16777344 0 0 S
+230 0 0 50000d0+0 0d0+0
+1000 0 0 0
+0 0 1
+0
+0 0 0
+#4406
+techarmy practice guardian~
+&zT&We&wc&zh&WA&zr&Wm&zy &WP&zractic&We &WG&zuardia&Wn~
+&zT&We&wc&zh&WA&zr&Wm&zy &WP&zractic&We &WG&zuardia&Wn is standing here
+~
+He is here helping clannies practice there skills and spells
+~
+1027 16777344 0 0 S
+230 0 0 50000d0+0 0d0+0
+1000 0 0 0
+0 0 1
+0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#4400
+techarmy plate leggings clan~
+&zT&We&wc&zh&WA&zr&wm&Wy &WP&zlat&We &WL&zegging&Ws~
+&zT&We&wc&zh&WA&zr&wm&Wy &WP&zlat&We &WL&zegging&Ws are lying here~
+~
+9 3 0 0 33 0 0
+0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+3 150 0 0 0
+3 4400
+reserved~
+-1 -1
+0 0 0
+A
+18 30
+A
+19 30
+A
+112 -1
+A
+12 70
+A
+13 90
+A
+17 -100
+#4401
+techarmy iron bracer clan~
+&zT&We&wc&Wh&zA&Wr&zm&Wy &WI&zro&Wn &WB&zracer&Ws~
+&zT&We&wc&Wh&zA&Wr&zm&Wy &WI&zro&Wn &WB&zracer&Ws are here~
+~
+9 33554433 0 0 4097 0 0
+0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+2 300 0 0 0
+5 0
+field of decay~
+-1 -1
+0 0 0
+A
+18 45
+A
+19 50
+A
+123 -1
+A
+25 90
+A
+13 130
+A
+12 100
+A
+17 -110
+A
+105 -1
+#4402
+techarmy clan flickering aura gray~
+&WF&wl&zi&wc&Wk&we&zr&wi&Wn&zg &zG&Wra&zy &zA&Wur&za~
+A &WF&wl&zi&wc&Wk&we&zr&wi&Wn&zg &zG&Wra&zy &zA&Wur&za lies here~
+~
+9 67108866 0 0 32769 0 0
+0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+1 400 0 0 0
+5 0
+blade barrier~
+-1 -1
+0 0 0
+A
+18 80
+A
+19 85
+A
+105 -1
+A
+112 -1
+A
+12 120
+A
+13 150
+A
+17 -170
+A
+112 -1
+A
+125 -1
+#4403
+dagger of the techarmy clan~
+&zD&Wagge&zr &zo&Wf &zt&Wh&ze &zT&We&wc&Wh&zA&Wr&zm&Wy~
+&zD&Wagge&zr &zo&Wf &zt&Wh&ze &zT&We&wc&Wh&zA&Wr&zm&Wy is here~
+~
+5 3 0 0 8193 0 0
+0~ 58~ 159~ 11~ 0~ 0~ 0~ 0~ 0~ 0~
+2 0 0 0 0
+5 0
+aid~
+-1 -1
+0 0 0
+A
+18 210
+A
+19 170
+A
+112 -1
+A
+110 -1
+A
+123 -1
+A
+125 -1
+A
+5 -1
+A
+3 3
+A
+4 3
+A
+1 2
+#0
+
+
+
+#ROOMDATA
+#4400
+&zT&We&wc&zh&WA&zr&Wm&zy &WC&zlan &WH&zall~
+This is the beginng of the TechArmy's clan hall.  There is machinery
+everywhere from them building.  This room is very cold maybe you should
+leave before you freeze to death.  
+~
+0 0 0
+Rd     0
+D4
+~
+~
+0 0 4401
+0
+S
+#4401
+&zT&We&wc&zh&WA&zr&Wm&zy &WC&zla&Wn &WH&zal&Wl~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 4402
+0
+D1
+~
+~
+0 0 4404
+0
+D2
+~
+~
+0 0 4403
+0
+D3
+~
+~
+0 0 4405
+0
+D4
+~
+~
+0 0 4406
+0
+D5
+~
+~
+0 0 4400
+0
+S
+#4402
+&zT&We&wc&zh&WA&zr&zm&Wy &WC&zla&Wn &zS&Who&zp~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 4401
+0
+S
+#4403
+&zT&We&wc&zh&WA&zr&zm&Wy &WC&zla&Wn &WA&zrmour&Wy~
+~
+0 1024 0
+Rd     0
+D0
+~
+~
+0 0 4401
+0
+S
+#4404
+&zT&We&wc&zh&WA&zr&zm&Wy &WC&zla&Wn &WH&zeale&Wr~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 4401
+0
+S
+#4405
+&zT&We&wc&zh&WA&zr&zm&Wy &WC&zla&Wn &zB&Wan&zk~
+~
+0 16777216 0
+Rd     0
+D1
+~
+~
+0 0 4401
+0
+S
+#4406
+&zT&We&wc&zh&WA&zr&zm&Wy &WC&zla&Wn &WO&zffice&Ws~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 4408
+0
+D1
+~
+~
+0 0 4409
+0
+D2
+~
+~
+0 0 4410
+0
+D3
+~
+~
+0 0 4411
+0
+D4
+~
+~
+0 0 4407
+0
+D5
+~
+~
+0 0 4401
+0
+S
+#4407
+&zT&We&wc&zh&WA&zr&zm&Wy &WC&zla&Wn &WP&zortal&Ws~
+~
+0 0 0
+Rd     0
+D5
+~
+~
+0 0 4406
+0
+S
+#4408
+&zT&We&wc&zh&WA&zr&Wm&zy &WO&zffice&Ws~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 4406
+0
+S
+#4409
+&zT&We&wc&zh&WA&zr&Wm&zy &WQ&zuestmaste&Wr~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 4406
+0
+S
+#4410
+&zT&We&wc&zh&WA&zr&Wm&zy &WP&zractic&We &Wa&zre&Wa~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 4406
+0
+S
+#4411
+&zT&We&wc&zh&WA&zr&Wm&zy &WT&zraine&Wr~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 4406
+0
+S
+#0
+
+
+
+#SPECIALS
+M 4401 spec_healer
+S
+
+
+
+#RESETS
+M 0 4400 1 4401
+M 0 4403 1 4402
+G 0 4400 0
+G 0 4401 0
+G 0 4402 0
+M 0 4401 1 4404
+M 0 4402 1 4405
+M 0 4404 1 4409
+M 0 4406 1 4410
+M 0 4405 1 4411
+S
+
+
+
+#SHOPS
+4403 9 0 0 0 0 100 100 1 25
+0
+
+
+
+#$

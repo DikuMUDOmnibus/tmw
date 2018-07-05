@@ -1,0 +1,121 @@
+#PLAYER
+Nm          Mortalmalum~
+ShtDsc      ~
+LngDsc      ~
+Dscr        ~
+Prmpt       %h/%H %X~
+Sx          1
+Cla         3 -1
+Rce         13
+Wiznet      262144
+Clan        0
+Clvl        0
+Ctmr        0
+Clslvls     0 0 0 1 0 0 0 0 0 0
+Stun        0 0 0 0 0
+WizLev      0
+ClkLev      0
+Kingdom     0
+Lvl         2
+Antidisarm  0
+Trst        0
+Security    0
+Wizbt       0
+Playd       6343
+Note        991273774
+Room        25012
+HpMnMvBp    2884 5014 0 106 106 0 120 120 0 20 20 0
+Charisma    0
+Gold	      0
+Silver      0
+Copper      0
+GRank       0
+Guild       ~
+Exp         5430
+Act         -1593833912
+Act2        8
+AffdBy      0
+AffdBy2     0
+AffdBy3     0
+ImmBits     0
+ResBits     0
+VulBits     0
+Pos         7
+Prac        45
+SavThr      0
+Align       70
+SAlign      N
+Hit         5
+Dam         6
+Armr        75
+Wimp        0
+Deaf        0
+Warpts      0
+Pkills      0
+Pkilled     0
+Arenawon    0
+Arenalost   0
+Incarnat    0
+Raisepts    0
+Corpses     0
+Paswd       testicle~
+Mech	  (null)~
+MechDesc	  (null)~
+Bmfin       ~
+Bmfout      ~
+Bmfsee      ~
+Trnsto      ~
+Trnsfrom    ~
+Trnvict     ~
+Slyuc       ~
+Slyrm       ~
+Slyvict     ~
+Afkmes      ~
+Bank   	  0 0 0
+Ttle        ~
+Whotype	  (null)~
+AtrPrm      13 13 13 13 13
+AtrMd       0 0 0 0 0
+Cond        0 100 50
+Pglen       20
+Empower     goto~
+Detract     ~
+Skll        85 'enhanced damage'
+Skll        85 'enhanced damage two'
+Skll        85 'enhanced hit'
+Skll        25 'fifth attack'
+Skll        25 'fourth attack'
+Skll        29 'iron grip'
+Skll        41 'second attack'
+Skll        25 'seventh attack'
+Skll        25 'sixth attack'
+Skll        31 'third attack'
+Skll        27 'enhanced reflexes'
+Skll        85 'enhanced damage three'
+Aff         1   1 -25  17          0 112
+End
+
+#OBJECT
+Nest         0
+Name         druid sword element~
+ShortDescr   the Sword of Elements~
+Description  A sword lies here, glowing vividly.~
+Vnum         807
+ExtraFlags   33554433
+AntiClassF   8159
+AntiRaceF    0
+WearFlags    8193
+WearLoc      2097152
+ItemType     5
+Weight       5
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       0
+Values       0 2 7 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#END

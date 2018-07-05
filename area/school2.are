@@ -1,0 +1,2099 @@
+#AREADATA
+Name        Mud School~
+Levels      0 0
+Builders    Shock~
+VNUMs       800 949
+Security    100
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#800
+Scott~
+Scott~
+Scott, a fellow student, sits in the seat across from you.
+~
+Scott is a rather short young man.  As he looks at you, you can barely
+see his eyes from his very thick glasses.  Sporting a plaid shirt and
+matching pants, his freckled face beams a smile at you.  A hat embroidered
+with the logo of a popular computer company half covers his mop-like blonde
+hair.  
+~
+3 0 0 0 S
+1 0 0 10d0+0 0d0+0
+0 0
+0 0 1
+0
+0 0 0
+>act_prog 'has joined this world.'~
+if level($n) == 1
+say Are you new here too?
+emote pushes up his glasses.
+say I'm always nervous on the first day of school.
+say Hmm... Whats wrong with you? You can't go to school unprepared!
+mpoload 800
+say Here, take this.. You never know there might be a test.
+give pencil $n
+mpechoat $n &W*** New Weapon ***
+mpechoat $n &WType 'wear pencil' to equip it.
+~
+>act_prog 'wields a pencil as his weapon.', 'wields a pencil as his primary weapon.'~
+say Ok cool. I see you know how to use it.
+say Meet up with me inside later, I'll tell you a secret.
+mpechoat $n &PThe bus slows to a stop.
+mpechoat $n &PFrom the front of the bus, a rather mean sounding voice says:
+mpechoat $n &CALRIGHT! GET OFF THE BUS NOW!! IM TIRED OF LOOKING AT ALL OF YOU!!!
+~
+>act_prog 'wields a pencil as her weapon.', 'wields a pencil as her primary weapon.'~
+say Ok cool. I see you know how to use it.
+say Meet up with me inside later, I'll tell you a secret.
+mpechoat $n &PThe bus slows to a stop.
+mpechoat $n &PFrom the front of the bus, a rather mean sounding voice says:
+mpechoat $n &CALRIGHT! GET OFF THE BUS NOW!! IM TIRED OF LOOKING AT ALL OF YOU!!!
+~
+|
+#801
+Jillian nurse~
+Jillian~
+Jillian, the school nurse, stands here helping the injured.
+~
+Jillian is a striking young woman with shoulder-length red hair.  She is
+wearing a white nurse's uniform with a red cross on her hat.  Her comforting
+hazel eyes make the room seem more peaceful.  
+~
+2097155 234881152 32 1000 S
+213 0 0 30000d0+0 0d0+0
+0 0
+0 0 2
+0
+0 0 0
+#802
+principal dick~
+the principal~
+Mr. Dick, the school principal, busily works at his desk.
+~
+The principal sits behind his desk wearing a streched out shirt and a
+pair of tattered jeans, which can barely contain his beer belly.  His
+wire-frame glasses are streched out on his big head.  His bald head is
+covered by combed-over grey hair.  He peers at you with eyes like daggers
+while he steadily polishes his shotgun.  
+~
+3 0 0 -375 S
+10 0 0 200d0+0 0d0+0
+0 0
+0 0 1
+0
+0 0 0
+#803
+roach cockroach~
+a cockroach~
+A huge cockroach scurries towards you.
+~
+This is a rather large cockroach, about the size of a fist.  It's dark
+brown and very fast.  
+~
+1 0 0 0 S
+2 0 0 16d0+0 0d0+0
+0 0
+0 0 0
+0
+0 0 0
+#804
+rat black~
+a black rat~
+A large black rat runs along the wall.
+~
+This black rat stares at you with his red beady eyes.  
+~
+1 0 0 0 S
+3 0 0 25d0+0 0d0+0
+0 0
+0 0 0
+0
+0 0 0
+#899
+Stacy~
+Stacy~
+Stacy, Malum's receptionist, sits here behind her desk shuffling papers.
+~
+~
+3 128 0 0 S
+3000 0 0 696968d0+0 0d0+0
+0 0
+0 0 2
+0
+0 0 0
+>speech_prog Next~
+if level($n)==213
+say Go forth and be judged!
+unlock north
+open north
+endif
+~
+>speech_prog close~
+close north
+lock north
+~
+|
+#0
+
+
+
+#OBJECTS
+#800
+pencil~
+a pencil~
+There is a sharp no. 2 pencil here.~
+~
+5 0 0 0 8193 0 1
+0~ 2~ 25~ 2~ 0~ 0~ 0~ 0~ 0~ 0~
+1 0 0
+0
+0 0
+0
+reserved~
+0 0
+0 0 0
+A
+19 5
+A
+18 5
+#897
+candy~
+&pa piece of expensive candy~
+A plastic wrapped piece of candy has been left on the floor.~
+~
+19 1 0 0 1 0 0
+1000000~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0
+0
+0 0
+0
+reserved~
+0 0
+0 0 0
+#898
+pencil~
+&Ya pencil~
+An ancient writing instrument is here on the ground.~
+~
+18 1 0 0 524289 0 0
+0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0
+0
+0 0
+0
+reserved~
+0 0
+0 0 0
+#899
+bowl~
+a candy bowl~
+A small crystal candy bowl sits on Malum's desk.~
+~
+15 0 0 0 0 0 0
+10000~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0
+0
+0 0
+0
+reserved~
+0 0
+0 0 0
+>get_from_prog 100~
+0
+emote cries...
+~
+|
+#0
+
+
+
+#ROOMDATA
+#800
+School Bus~
+~
+0 1024 0
+Rd     0
+D3
+~
+~
+0 0 900
+0
+S
+#801
+Square~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 802
+0
+D1
+~
+~
+0 0 848
+0
+D3
+~
+~
+0 0 849
+0
+D5
+~
+~
+0 0 901
+0
+S
+#802
+Square~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 803
+0
+D2
+~
+~
+0 0 801
+0
+S
+#803
+Main Entrance~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 804
+0
+D1
+~
+~
+0 0 851
+0
+D2
+~
+~
+0 0 802
+0
+D3
+~
+~
+0 0 850
+0
+S
+#804
+Lobby~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 803
+0
+D4
+~
+~
+0 0 805
+0
+S
+#805
+Hallway~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 806
+0
+D3
+~
+~
+0 0 807
+0
+D5
+~
+~
+0 0 804
+0
+S
+#806
+Hallway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 836
+0
+D1
+~
+~
+1 0 838
+0
+D2
+~
+~
+3 0 837
+0
+D3
+~
+~
+0 0 805
+0
+S
+#807
+Hallway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 808
+0
+D1
+~
+~
+0 0 805
+0
+D3
+~
+~
+0 0 809
+0
+S
+#808
+VC107~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 839
+0
+D2
+~
+~
+3 0 807
+0
+S
+#809
+Hallway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 810
+0
+D1
+~
+~
+0 0 807
+0
+D2
+~
+~
+3 0 811
+0
+D3
+~
+~
+0 0 812
+0
+S
+#810
+Barton~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 809
+0
+S
+#811
+Lounge~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 809
+0
+S
+#812
+Hallway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 813
+0
+D1
+~
+~
+0 0 809
+0
+D3
+~
+~
+0 0 814
+0
+S
+#813
+Bathroom~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 812
+0
+S
+#814
+Hallway~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 812
+0
+D3
+~
+~
+0 0 817
+0
+D4
+~
+~
+0 0 815
+0
+D5
+~
+~
+0 0 816
+0
+S
+#815
+Stairwell~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 883
+0
+D1
+~
+~
+0 0 884
+0
+D3
+~
+~
+0 0 880
+0
+D5
+~
+~
+0 0 814
+0
+S
+#816
+Basement~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 854
+0
+D3
+~
+~
+1 0 853
+0
+D4
+~
+~
+0 0 814
+0
+S
+#817
+Hallway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 818
+0
+D1
+~
+~
+0 0 814
+0
+D2
+~
+~
+3 0 819
+0
+D3
+~
+~
+0 0 820
+0
+S
+#818
+Griffin~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 817
+0
+S
+#819
+Office~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 817
+0
+D2
+~
+~
+0 0 847
+0
+S
+#820
+Hallway~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 817
+0
+D3
+~
+~
+0 0 821
+0
+S
+#821
+Hallway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 822
+0
+D1
+~
+~
+0 0 820
+0
+D2
+~
+~
+3 0 823
+0
+D3
+~
+~
+3 0 824
+0
+S
+#822
+Guidance~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 821
+0
+S
+#823
+R1~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 821
+0
+D2
+~
+~
+3 0 825
+0
+D3
+~
+~
+0 0 833
+0
+S
+#824
+Stairwell~
+~
+0 4 0
+Rd     0
+D1
+~
+~
+3 0 821
+0
+D4
+~
+~
+0 0 835
+0
+D5
+~
+~
+0 0 834
+0
+S
+#825
+Wiring Closet~
+Aside from the huge caseless file servers and the system administrator's
+terminal in the center of this room, all the computers are non-functional. 
+The broken monitors are scattered around the floor.  The various workbenches
+along the walls of the room are covered with tools and computer parts.  The
+western wall of the room is covered with networking cables, all going to a
+central hub.  The cold laminate floor obviously hasn't been swept in years. 
+Only a few people a day come in here, the system administrator and a janitor
+or two.  The southern wall is covered with labelled boxes ranging from
+"cables" to "mainboards."  The system administrator's desk is cluttered with
+requests to repair computers and his "to do" lists.  The giant bottle of
+antiacid sticking out of the desk drawer has slightly spilled in a puddle on
+the floor.  A sign with big black letters is posted on the bulletin board
+close to the north entrance.  
+~
+0 0 0
+Rd     0
+E
+sign~
+No students allowed beyond this point.
+-Sys. Admin.
+~
+D0
+~
+~
+3 0 823
+0
+D2
+~
+~
+2 0 826
+0
+S
+#826
+Storage~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+2 0 825
+0
+D1
+~
+~
+0 0 828
+0
+D3
+~
+~
+0 0 827
+0
+S
+#827
+Storage~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 826
+0
+D2
+~
+~
+3 0 829
+0
+S
+#828
+Storage~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+3 0 846
+0
+D2
+~
+~
+3 0 845
+0
+D3
+~
+~
+0 0 826
+0
+S
+#829
+Nurse~
+~
+0 1024 0
+Rd     0
+D0
+~
+~
+3 0 827
+0
+D1
+~
+~
+3 0 831
+0
+D3
+~
+~
+3 0 830
+0
+S
+#830
+Cisco~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 832
+0
+D1
+~
+~
+3 0 829
+0
+S
+#831
+Stairwell~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 852
+0
+D3
+~
+~
+3 0 829
+0
+D4
+~
+~
+0 0 843
+0
+D5
+~
+~
+0 0 844
+0
+S
+#832
+R1~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 833
+0
+D2
+~
+~
+3 0 830
+0
+S
+#833
+R1~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 823
+0
+D2
+~
+~
+0 0 832
+0
+S
+#834
+Stairwell~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+2 0 856
+0
+D3
+~
+~
+0 0 897
+0
+D4
+~
+~
+0 0 824
+0
+S
+#835
+Stairwell~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 881
+0
+D5
+~
+~
+0 0 824
+0
+S
+#836
+VC107~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 806
+0
+D3
+~
+~
+0 0 839
+0
+S
+#837
+Leslie~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 806
+0
+S
+#838
+Stairwell~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 840
+0
+D1
+~
+~
+3 0 874
+0
+D3
+~
+~
+1 0 806
+0
+D4
+~
+~
+0 0 841
+0
+D5
+~
+~
+0 0 842
+0
+S
+#839
+VC107~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 836
+0
+D3
+~
+~
+0 0 808
+0
+S
+#840
+Sped~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 838
+0
+S
+#841
+Stairwell~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 893
+0
+D3
+~
+~
+0 0 889
+0
+D5
+~
+~
+0 0 838
+0
+S
+#842
+Stairwell~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 871
+0
+D3
+~
+~
+0 0 868
+0
+D4
+~
+~
+0 0 838
+0
+S
+#843
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 878
+0
+D3
+~
+~
+0 0 882
+0
+D5
+~
+~
+0 0 831
+0
+S
+#844
+Stairwell~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 859
+0
+D3
+~
+~
+0 0 873
+0
+D4
+~
+~
+0 0 831
+0
+S
+#845
+Office Bathroom~
+This bathroom is rather small and confined.  However, it is by far the
+cleanest bathroom in the whole school.  There is only a toilet, a sink, a
+mirror, and a cabinet.  The smell of cheap potpourri fills the room, almost
+to an unbearable extent.  Rolls of toilet paper are stacked against the
+pink-painted eastern wall.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 828
+0
+S
+#846
+Principal's Office~
+The walls of this room are covered with forged degrees and diplomas.  In
+the two corners of the room facing the front of the desk, there are
+televisions showing empty hallways and the second floor bathroom.  In front
+of the principal's desk sit two big, comfortable chairs.  Many people come
+in and out of here, having the principal sign things.  The computer behind
+the desk softly plays country music.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 847
+0
+D3
+~
+~
+3 0 828
+0
+S
+#847
+Office~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 819
+0
+D2
+~
+~
+3 0 846
+0
+S
+#848
+Square~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 851
+0
+D3
+~
+~
+0 0 801
+0
+S
+#849
+Square~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 850
+0
+D1
+~
+~
+0 0 801
+0
+D3
+~
+~
+0 0 896
+0
+S
+#850
+Square~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 803
+0
+D2
+~
+~
+0 0 849
+0
+D4
+~
+~
+0 0 852
+0
+S
+#851
+Square~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 877
+0
+D2
+~
+~
+0 0 848
+0
+D3
+~
+~
+0 0 803
+0
+S
+#852
+West entrance~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 831
+0
+D5
+~
+~
+0 0 850
+0
+S
+#853
+Kitchen~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 861
+0
+D1
+~
+~
+1 0 816
+0
+D3
+~
+~
+0 0 855
+0
+S
+#854
+Soda Machines~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 816
+0
+D1
+~
+~
+0 0 860
+0
+D3
+~
+~
+3 0 858
+0
+S
+#855
+Kitchen~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 853
+0
+D2
+~
+~
+1 0 856
+0
+S
+#856
+Crotchateria~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+1 0 855
+0
+D1
+~
+~
+0 0 858
+0
+D2
+~
+~
+0 0 857
+0
+D3
+~
+~
+2 0 834
+0
+S
+#857
+Cafeteria~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 856
+0
+D1
+~
+~
+0 0 859
+0
+S
+#858
+Cafeteria~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+3 0 854
+0
+D2
+~
+~
+0 0 859
+0
+D3
+~
+~
+0 0 856
+0
+S
+#859
+Cafeteria~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 858
+0
+D1
+~
+~
+7 0 872
+0
+D2
+~
+~
+3 0 844
+0
+D3
+~
+~
+0 0 857
+0
+S
+#860
+Soda Machines~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 862
+0
+D1
+~
+~
+0 0 863
+0
+D3
+~
+~
+0 0 854
+0
+S
+#861
+~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 853
+0
+S
+#862
+~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 860
+0
+S
+#863
+Vending Machines~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 864
+0
+D1
+~
+~
+0 0 865
+0
+D3
+~
+~
+0 0 860
+0
+S
+#864
+Girl's Bathroom~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 863
+0
+S
+#865
+Basement~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 866
+0
+D1
+~
+~
+0 0 868
+0
+D2
+~
+~
+3 0 867
+0
+D3
+~
+~
+0 0 863
+0
+S
+#866
+Sped computers~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 865
+0
+S
+#867
+Art~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 865
+0
+D3
+~
+~
+0 0 872
+0
+S
+#868
+Basement~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 869
+0
+D1
+~
+~
+0 0 842
+0
+D2
+~
+~
+3 0 870
+0
+D3
+~
+~
+0 0 865
+0
+S
+#869
+Rott~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 868
+0
+S
+#870
+Janitor~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 868
+0
+S
+#871
+Buck~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 842
+0
+S
+#872
+Art~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 867
+0
+D3
+~
+~
+7 0 859
+0
+S
+#873
+Cops~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+3 0 844
+0
+S
+#874
+~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+3 0 838
+0
+D5
+~
+~
+0 0 875
+0
+S
+#875
+Alley~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 877
+0
+D4
+~
+~
+0 0 874
+0
+D5
+~
+~
+0 0 876
+0
+S
+#876
+Ramp~
+~
+0 0 0
+Rd     0
+D4
+~
+~
+0 0 875
+0
+S
+#877
+Alley~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 875
+0
+D2
+~
+~
+0 0 851
+0
+S
+#878
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 879
+0
+D1
+~
+~
+0 0 880
+0
+D2
+~
+~
+0 0 843
+0
+D3
+~
+~
+0 0 881
+0
+S
+#879
+Stage~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 878
+0
+S
+#880
+Auditorim~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 815
+0
+D3
+~
+~
+0 0 878
+0
+S
+#881
+Audiotorium~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 878
+0
+D2
+~
+~
+0 0 882
+0
+D3
+~
+~
+0 0 835
+0
+S
+#882
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 881
+0
+D1
+~
+~
+0 0 843
+0
+S
+#883
+Bathroom~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 815
+0
+S
+#884
+Hallway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 885
+0
+D1
+~
+~
+0 0 894
+0
+D2
+~
+~
+0 0 886
+0
+D3
+~
+~
+0 0 815
+0
+S
+#885
+Hallway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 895
+0
+D1
+~
+~
+0 0 892
+0
+D2
+~
+~
+0 0 884
+0
+S
+#886
+Kitchen~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 884
+0
+D1
+~
+~
+0 0 887
+0
+S
+#887
+Sewing~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 888
+0
+D3
+~
+~
+0 0 886
+0
+S
+#888
+Hull~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 889
+0
+D3
+~
+~
+0 0 887
+0
+S
+#889
+hallway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 890
+0
+D1
+~
+~
+0 0 841
+0
+D2
+~
+~
+0 0 888
+0
+D3
+~
+~
+0 0 894
+0
+S
+#890
+Hallway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+3 0 891
+0
+D2
+~
+~
+0 0 889
+0
+D3
+~
+~
+0 0 892
+0
+S
+#891
+McRoy~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 890
+0
+S
+#892
+Hallway~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 890
+0
+D3
+~
+~
+0 0 885
+0
+S
+#893
+Spanish~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 841
+0
+S
+#894
+hallway~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 889
+0
+D3
+~
+~
+0 0 884
+0
+S
+#895
+Gilley~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+3 0 885
+0
+S
+#896
+Walkway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 897
+0
+D1
+~
+~
+0 0 849
+0
+S
+#897
+West Entrance~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 834
+0
+D2
+~
+~
+0 0 896
+0
+S
+#898
+Waiting Room~
+~
+0 1028 0
+Rd     0
+D0
+~
+~
+119 898 899
+0
+S
+>exit_prog 100~
+0
+tell stacy close
+~
+|
+#899
+Malum's Office~
+~
+0 25128 0
+Rd     0
+D2
+~
+~
+119 0 898
+0
+S
+#900
+School Bus~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 901
+0
+D1
+~
+~
+0 0 800
+0
+S
+#901
+Sidewalk~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 900
+0
+D4
+~
+~
+0 0 801
+0
+S
+#0
+
+
+
+#SPECIALS
+M 801 spec_healer
+S
+
+
+
+#RESETS
+M 0 800 1 800
+M 0 803 3 805
+M 0 804 3 805
+M 0 803 3 806
+M 0 804 3 806
+M 0 803 3 809
+M 0 804 3 809
+M 0 804 3 817
+M 0 803 3 817
+M 0 801 1 829
+M 0 802 1 846
+M 0 899 1 898
+E 0 898 0 33554432
+O 0 899 0 899
+P 0 897 0 899
+P 0 897 0 899
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

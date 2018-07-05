@@ -1,0 +1,196 @@
+#AREADATA
+Name        Volrath~
+Levels      0 0
+Builders    Volrath~
+VNUMs       600 799
+Security    1
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#600
+dagger of raw anti matter~
+&rA &zdagger &wof &RR&ra&Rw &rAn&zti&R-&zma&rtt&zer~
+&rA &zdagger &wof &RR&ra&Rw &rAn&zti&R-&zma&rtt&zer &wlies on the ground motionless.~
+~
+5 100680006 256 0 8193 0 0
+0~ 0~ 0~ 11~ 0~ 0~ 0~ 0~ 0~ 0~
+1 0 0 0 0
+5 0
+haste~
+2147483647 -1
+0 0 0
+A
+18 1000
+A
+19 1000
+A
+112 -1
+A
+123 -1
+A
+105 -1
+E
+dagger~
+~
+#601
+&zV&Go&zl&Gr&za&Gt&zh&g'&zs &rH&Re&ra&Rr&rt &Gon a &OChain~
+&zV&Go&zl&Gr&za&Gt&zh&g'&zs &rH&Re&ra&Rr&rt &Gon a &OChain~
+&zV&Go&zl&Gr&za&Gt&zh&g'&zs &rH&Re&ra&Rr&rt &Gon a &OChain~
+~
+9 570425344 0 0 5 0 0
+0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+10 -1
+0 0 0
+#602
+A street light~
+a street light~
+A street light stands here towering over you, it is releasing a warm glow.~
+~
+1 1 0 0 0 0 0
+0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#603
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0 0 0 0 0
+0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#600
+North-western street corner block 0~
+You are standing at the north-western corner of a large city. The streets
+are filled with vehicles waiting for some sort of movement. The sidewalks
+have small shops lining the walls of the large skyscrapers surrounding you.
+People and aliens of all shapes and sizes rush across the busy sidewalk
+franticly. As you wonder at the amazing skyscrapers a small dwarf slams into
+your knee and runs away. Maybe the city isn't such a great place.
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 601
+0
+D2
+~
+~
+0 0 610
+0
+S
+#601
+Northern streets of the city block 1~
+You slowly walk down the northern street of the large city. The streets.
+are backed up as far as you can see. You can hear people talking in the shops near 
+you, but it is of no intrest. The skyscrapers are getting bigger the closer
+you get to the middle of the city. You are getting a small sense
+of being lost.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+2 0 603
+0
+D1
+~
+~
+0 0 602
+0
+D3
+~
+~
+0 0 600
+0
+S
+#602
+Northern streets of the city block 2~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 603
+0
+D3
+~
+~
+0 0 601
+0
+S
+#603
+Northern streets of the city block 1~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+2 0 601
+0
+D3
+~
+~
+0 0 602
+0
+S
+#610
+Western street of the city block 10~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 600
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

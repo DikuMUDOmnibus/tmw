@@ -1,0 +1,53 @@
+#AREADATA
+Name        followers of Aeris clan hall~
+Levels      0 0
+Builders    Hanz~
+VNUMs       500 599
+Security    1
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#500
+Followers Of Aeris Clan Recall Room~
+This is the room in which the clan recall's, there are War banners all
+over the place, there is frost coming in from the roof, you find yourself
+VERY cold, maybe its time to move to another room 
+~
+0 4 0
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

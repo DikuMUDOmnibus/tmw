@@ -1,0 +1,356 @@
+#AREADATA
+Name        hals area~
+Levels      0 0
+Builders    Haldoran~
+VNUMs       2201 2299
+Security    1
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#2201
+Old Port Entrance~
+The entrance to the old port is blocked with moldy, warped boards. 
+Despite the attempt at blocking the entrance, there are large gaps in the
+wood that could allow a person to climb through.  
+~
+0 0 1
+Rd     0
+D0
+~
+~
+0 0 2202
+0
+S
+#2202
+Old Port~
+There is a heavy fog rolling in from the sea that partially blocks you
+vision.  A large number of decrepit warehouses and storage facilites line
+the shore.  Just east of you, there is a fairly lare dry dock that appears
+to have what was once a ship still in it.  
+~
+0 0 1
+Rd     0
+D0
+~
+~
+0 0 2204
+0
+D1
+~
+~
+0 0 2203
+0
+D2
+~
+~
+0 0 2201
+0
+S
+#2203
+~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2202
+0
+S
+#2204
+Warehouse Entrance~
+A wave of nausea comes over you as the musty smell of fish that hangs in
+the air strikes your nostrils.  To the north, you see a pier that extends
+further into the sea.  Also, the door to one of the larger warehouses is
+here.  The lock that was on the door has rusted off, leaving it unlocked to
+all who care to enter it.  
+~
+0 0 1
+Rd     0
+D0
+~
+~
+0 0 2206
+0
+D2
+~
+~
+0 0 2202
+0
+D3
+~
+~
+1 0 2205
+0
+S
+#2205
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2209
+0
+D1
+~
+~
+1 0 2204
+0
+D2
+~
+~
+0 0 2210
+0
+D3
+~
+~
+0 0 2211
+0
+S
+#2206
+Pier~
+The pier that you stand on is almost completely destroyed.  The pieces of
+wood that were used to build it are disintegrating at a fast pace and large,
+gaping wholes are starting to appear where the wood used to be at.  Also, as
+you get further out into the sea, the fog seems to get thicker and the smell
+of fish gets worse.  
+~
+0 0 1
+Rd     0
+D0
+~
+~
+0 0 2207
+0
+D2
+~
+~
+0 0 2204
+0
+S
+#2207
+Pier~
+The wholes in the pier get larger and start appearing more frequently. 
+The fog is so thick that you can barely see in front of you.  With the
+amount of wholes increasing and your vision decreasing, you wonder what
+possessed you to come out this far in the first place.  
+~
+0 0 1
+Rd     0
+D0
+~
+~
+0 0 2208
+0
+D2
+~
+~
+0 0 2206
+0
+S
+#2208
+End of Pier~
+You think you have reached the end of the pier but aren't sure since you
+can only make out what is in front of your face.  You can faintly make out a
+glowing object just in front of you that appears to be a portal of some
+sort.  The portal, while you have no clue where it leads, seems like the
+only way out of this forsaken place.  
+~
+0 425984 1
+Rd     0
+D2
+~
+~
+0 0 2207
+0
+S
+#2209
+~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 2205
+0
+D3
+~
+~
+0 0 2212
+0
+S
+#2210
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2205
+0
+D3
+~
+~
+0 0 2216
+0
+S
+#2211
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2212
+0
+D1
+~
+~
+0 0 2205
+0
+D2
+~
+~
+0 0 2216
+0
+D3
+~
+~
+0 0 2214
+0
+S
+#2212
+~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2209
+0
+D2
+~
+~
+0 0 2211
+0
+D3
+~
+~
+0 0 2213
+0
+S
+#2213
+~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2212
+0
+D2
+~
+~
+0 0 2214
+0
+S
+#2214
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2213
+0
+D1
+~
+~
+0 0 2211
+0
+D2
+~
+~
+0 0 2215
+0
+S
+#2215
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2214
+0
+D1
+~
+~
+0 0 2216
+0
+S
+#2216
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2211
+0
+D1
+~
+~
+0 0 2210
+0
+D3
+~
+~
+0 0 2215
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

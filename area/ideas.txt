@@ -1,0 +1,8 @@
+[ 3009] Kjodo: help power armor
+[ 3009] Kjodo: help gun
+[ 3009] Kjodo: help engage
+[ 3009] Kjodo: help reload
+[ 3009] Kjodo: help vehicle
+[ 3009] Kjodo: help simulator
+[ 3009] Kjodo: help mount
+[ 3009] Kjodo: help phone

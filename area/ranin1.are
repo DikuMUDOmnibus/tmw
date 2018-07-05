@@ -1,0 +1,1788 @@
+#AREADATA
+Name        The Droid Factory~
+Levels      1 10
+Builders    None~
+VNUMs       2500 2599
+Security    1
+Recall      25000
+Flags       16
+Color       6
+Sounds      You hear another droid roll off the assembly line.~
+End
+
+
+
+#MOBILES
+#2500
+lazy worker~
+A lazy worker~
+A lazy worker stands here.
+~
+This man stands before you in a slouching manner, you can't believe that
+he is able to maintain his job at this droid factory.  As he walks by you
+notice the candy coming out of his pockets and the soda stains on his shirt.
+~
+1 0 0 0 S
+1 0 0 20d0+0 0d0+0
+0 0
+0 0 1
+0
+0 0 0
+#2501
+vending machine~
+A vending machine~
+A vending machine sits here.
+~
+A sleak looking vending machine sits here.  Its purr tells anyone around
+that its contents are fresh and tasty.  
+~
+393219 0 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+0
+0 0 0
+#2502
+completed droid~
+A completed droid~
+A completed droid stands ready to be loaded into a transport ship.
+~
+This droid is the pride of the this companies business.  It has passed
+the extreme tests administered by the many workers of this factory.  It
+seems to gaze off into the distance awaiting some future task such as
+cleaning bathrooms or maybe even washing dishes in a restaurant.  
+~
+3 0 0 1000 S
+8 0 0 100d0+0 0d0+0
+0 0
+0 0 0
+0
+0 0 0
+#2503
+bob~
+Bob~
+Bob, the head of schematics sits here at his desk.
+~
+Bob is sitting at his desk working extremely hard.  You have never seen
+someone so determined to get his job done for all the rest of the workers. 
+He is wearing a sweat stained shirt along with a pair of green sweatpants. 
+You realize soon though that this man is not the smartest cookie you have
+ever met.  
+~
+3 0 0 200 S
+2 0 0 50d0+0 0d0+0
+0 0
+0 0 1
+0
+0 0 0
+#2504
+frank~
+Frank~
+Frank, the head of electronics sits at his desk.
+~
+Frank is a very big man, but you can tell he still manages to get the job
+done by all the awards hanging on the walls.  He is very clean cut and is
+wearing a tie along with some very nice pressed pants.  You wonder if this
+man has any friends at the factory.  
+~
+3 0 0 200 S
+2 0 0 50d0+0 0d0+0
+0 0
+0 0 1
+0
+0 0 0
+#2505
+george~
+George~
+George, head of operations concerning the right foot, sits here at his desk.
+~
+As you stare at George, you realize that even though he looks like a very
+smart man, years of working on feet has set his mind into a deep recession. 
+He never even looks at you as you walk in, he just continues to work on the
+foot for the next droid.  
+~
+3 0 0 300 S
+3 0 0 60d0+0 0d0+0
+0 0
+0 0 0
+0
+0 0 0
+#2506
+bill~
+Bill~
+Bill, head of operations concerning the left foot, sits here working at his desk.
+~
+As you take a look at Bob, you almost fall over laughing at his tiny
+appearance.  He is about 4'10", and looks like a twig.  Almost instantly,
+Bob looks up at you and glares, for some reason, dispite his height, he
+still seems like a nasty man who could set himself into almost anyone.  
+~
+3 0 0 300 S
+3 0 0 60d0+0 0d0+0
+0 0
+0 0 1
+0
+0 0 0
+#2507
+eebert~
+Eebert~
+Eebert, head of operations concerning the right leg, sits here at his desk.
+~
+Eebert is a very strange looking man, he has a very large nose and very
+little eyes.  His complextion is very dark, but he has the whitest hair you
+have ever seen in your life.  Somehow he is managing to work on the droid
+leg and look off into the distance at the same time.  
+~
+3 0 0 400 S
+4 0 0 70d0+0 0d0+0
+0 0
+0 0 1
+0
+0 0 0
+>all_greet_prog 100~
+~
+|
+#2508
+franz~
+Franz~
+Franz, head of operations concerning the left foot, sits here at his desk.
+~
+~
+3 0 0 400 S
+4 0 0 70d0+0 0d0+0
+0 0
+0 0 1
+0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#2500
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0 0 0 0 0
+0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0
+0
+0 0
+0 0
+reserved~
+0 0
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#2500
+Entrance to the Droid Factory~
+~
+0 4 0
+Rd     0
+D0
+~
+~
+0 0 2501
+0
+S
+#2501
+Inside the building~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2506
+0
+D1
+~
+~
+119 0 2502
+0
+D2
+~
+~
+0 0 2500
+0
+D3
+~
+~
+0 0 2503
+0
+S
+#2502
+Mira's Office.~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+119 0 2501
+0
+S
+#2503
+The Cafeteria~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2504
+0
+D1
+~
+~
+0 0 2501
+0
+D3
+~
+~
+0 0 2505
+0
+S
+#2504
+Some Vending Machines~
+~
+0 1024 0
+Rd     0
+D2
+~
+~
+0 0 2503
+0
+S
+#2505
+A tightly packed closet~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2503
+0
+S
+#2506
+A dull hallway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2507
+0
+D2
+~
+~
+0 0 2501
+0
+S
+#2507
+A dull hallway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2509
+0
+D1
+~
+~
+0 0 2508
+0
+D2
+~
+~
+0 0 2506
+0
+S
+#2508
+Docking bay for shipping completed droids~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2507
+0
+S
+#2509
+The beginning of the conveyor belt.~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2512
+0
+D1
+~
+~
+0 0 2510
+0
+D2
+~
+~
+0 0 2507
+0
+D3
+~
+~
+0 0 2511
+0
+S
+#2510
+Bob's Office.~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2509
+0
+S
+#2511
+Frank's Office~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2509
+0
+S
+#2512
+The first assembly step: The Feet.~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2515
+0
+D1
+~
+~
+0 0 2514
+0
+D2
+~
+~
+0 0 2509
+0
+D3
+~
+~
+0 0 2513
+0
+S
+#2513
+Bill's Office.~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2512
+0
+S
+#2514
+George's Office.~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2512
+0
+S
+#2515
+The second assembly step: The Legs.~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2518
+0
+D1
+~
+~
+0 0 2517
+0
+D2
+~
+~
+0 0 2512
+0
+D3
+~
+~
+0 0 2516
+0
+S
+#2516
+Franz's Office~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2515
+0
+S
+#2517
+Eebert's Office.~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2515
+0
+S
+#2518
+The third assembly step: The main body.~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2521
+0
+D1
+~
+~
+0 0 2520
+0
+D2
+~
+~
+0 0 2515
+0
+D3
+~
+~
+0 0 2519
+0
+S
+#2519
+Eckle's Office.~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2518
+0
+S
+#2520
+Sam's Office.~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2518
+0
+S
+#2521
+The fourth assembly step: The Arms.~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2524
+0
+D1
+~
+~
+0 0 2523
+0
+D2
+~
+~
+0 0 2518
+0
+D3
+~
+~
+0 0 2522
+0
+S
+#2522
+Ernie's Office.~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2521
+0
+S
+#2523
+Russell's Office.~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2521
+0
+S
+#2524
+The fifth assembly step: The Head.~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2527
+0
+D1
+~
+~
+0 0 2526
+0
+D2
+~
+~
+0 0 2521
+0
+D3
+~
+~
+0 0 2525
+0
+S
+#2525
+Homer's Office.~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2524
+0
+S
+#2526
+Peter's Office.~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2524
+0
+S
+#2527
+Assembled droids.~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2528
+0
+D2
+~
+~
+0 0 2524
+0
+S
+#2528
+Albert's Office.~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2529
+0
+D2
+~
+~
+0 0 2527
+0
+S
+#2529
+The final stage for the droids: The Maze.~
+~
+0 4 0
+Rd     0
+D0
+~
+~
+0 0 2540
+0
+D1
+~
+~
+0 0 2541
+0
+D2
+~
+~
+0 0 2528
+0
+D3
+~
+~
+0 0 2530
+0
+S
+#2530
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2529
+0
+D3
+~
+~
+0 0 2531
+0
+S
+#2531
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2532
+0
+D1
+~
+~
+0 0 2530
+0
+S
+#2532
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2533
+0
+D2
+~
+~
+0 0 2531
+0
+S
+#2533
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2534
+0
+D2
+~
+~
+0 0 2532
+0
+S
+#2534
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2536
+0
+D2
+~
+~
+0 0 2533
+0
+D3
+~
+~
+0 0 2535
+0
+S
+#2535
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2534
+0
+S
+#2536
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2537
+0
+D3
+~
+~
+0 0 2534
+0
+S
+#2537
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 2538
+0
+D3
+~
+~
+0 0 2536
+0
+S
+#2538
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2537
+0
+D1
+~
+~
+0 0 2539
+0
+D2
+~
+~
+0 0 2540
+0
+S
+#2539
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2538
+0
+S
+#2540
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2538
+0
+D2
+~
+~
+0 0 2529
+0
+S
+#2541
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2542
+0
+D3
+~
+~
+0 0 2529
+0
+S
+#2542
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2543
+0
+D3
+~
+~
+0 0 2541
+0
+S
+#2543
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2545
+0
+D1
+~
+~
+0 0 2544
+0
+D2
+~
+~
+0 0 2542
+0
+S
+#2544
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2543
+0
+S
+#2545
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2546
+0
+D2
+~
+~
+0 0 2543
+0
+S
+#2546
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2547
+0
+D2
+~
+~
+0 0 2545
+0
+S
+#2547
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2548
+0
+D3
+~
+~
+0 0 2546
+0
+S
+#2548
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2549
+0
+D3
+~
+~
+0 0 2547
+0
+S
+#2549
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 2550
+0
+D3
+~
+~
+0 0 2548
+0
+S
+#2550
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2549
+0
+D2
+~
+~
+0 0 2551
+0
+S
+#2551
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2550
+0
+D1
+~
+~
+0 0 2552
+0
+S
+#2552
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2553
+0
+D3
+~
+~
+0 0 2551
+0
+S
+#2553
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2554
+0
+D2
+~
+~
+0 0 2562
+0
+D3
+~
+~
+0 0 2552
+0
+S
+#2554
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2555
+0
+D2
+~
+~
+0 0 2553
+0
+S
+#2555
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2556
+0
+D3
+~
+~
+0 0 2554
+0
+S
+#2556
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2558
+0
+D2
+~
+~
+0 0 2557
+0
+D3
+~
+~
+0 0 2555
+0
+S
+#2557
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2556
+0
+S
+#2558
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2560
+0
+D1
+~
+~
+0 0 2559
+0
+D2
+~
+~
+0 0 2556
+0
+S
+#2559
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2558
+0
+S
+#2560
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 2558
+0
+D3
+~
+~
+0 0 2561
+0
+S
+#2561
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2560
+0
+S
+#2562
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2553
+0
+D2
+~
+~
+0 0 2563
+0
+S
+#2563
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2562
+0
+D3
+~
+~
+0 0 2564
+0
+S
+#2564
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2563
+0
+D3
+~
+~
+0 0 2565
+0
+S
+#2565
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2564
+0
+D2
+~
+~
+0 0 2566
+0
+S
+#2566
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2565
+0
+D2
+~
+~
+0 0 2567
+0
+S
+#2567
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2566
+0
+D1
+~
+~
+0 0 2568
+0
+D2
+~
+~
+0 0 2569
+0
+S
+#2568
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2570
+0
+D3
+~
+~
+0 0 2567
+0
+S
+#2569
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2567
+0
+D2
+~
+~
+0 0 2579
+0
+S
+#2570
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 2571
+0
+D3
+~
+~
+0 0 2568
+0
+S
+#2571
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2570
+0
+D1
+~
+~
+0 0 2572
+0
+S
+#2572
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2573
+0
+D3
+~
+~
+0 0 2571
+0
+S
+#2573
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2574
+0
+D3
+~
+~
+0 0 2572
+0
+S
+#2574
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2575
+0
+D2
+~
+~
+0 0 2573
+0
+S
+#2575
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2576
+0
+D2
+~
+~
+0 0 2574
+0
+S
+#2576
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2577
+0
+D3
+~
+~
+0 0 2575
+0
+S
+#2577
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2578
+0
+D3
+~
+~
+0 0 2576
+0
+S
+#2578
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2577
+0
+S
+#2579
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2569
+0
+D2
+~
+~
+0 0 2581
+0
+D3
+~
+~
+0 0 2580
+0
+S
+#2580
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2579
+0
+D3
+~
+~
+0 0 2584
+0
+S
+#2581
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2579
+0
+D1
+~
+~
+0 0 2582
+0
+S
+#2582
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2583
+0
+D3
+~
+~
+0 0 2581
+0
+S
+#2583
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 2582
+0
+S
+#2584
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2580
+0
+D2
+~
+~
+0 0 2585
+0
+S
+#2585
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2584
+0
+D2
+~
+~
+0 0 2586
+0
+S
+#2586
+Inside the Maze~
+As you walk around the maze, you wonder if you will ever escape from this
+place.  The thought of the rewards of your trouble make you stay and wonder
+what you will receive if you find the exit.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2585
+0
+D2
+~
+~
+0 0 2587
+0
+S
+#2587
+Success!~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2586
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 2500 2 2501
+M 0 2501 1 2504
+M 0 2502 5 2508
+M 0 2503 1 2510
+M 0 2504 1 2511
+M 0 2506 1 2513
+M 0 2505 1 2514
+M 0 2507 1 2517
+S
+
+
+
+#SHOPS
+2501 0 19 0 0 0 100 100 0 24
+0
+
+
+
+#$

@@ -1,0 +1,269 @@
+#AREADATA
+Name        New area~
+Levels      0 0
+Builders    None~
+VNUMs       2800 2808
+Security    1
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#2800
+simulation soldier~
+A simulated soldier~
+A simulated soldier awaits battle.
+~
+This soldier looks very life-like. He is
+dressed in a Donim City Militia training uniform.
+ 
+~
+1 0 0 -200 S
+1 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#2800
+North-Western Corner~
+You are at the north-western corner of a small arena. The walls are
+made of a glossy metal. Every sound reverberates off the walls
+making it very hard to discern where the sounds are coming from,
+and also emphasizing any movement.
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2803
+0
+D2
+~
+~
+0 0 2801
+0
+S
+#2801
+West Wall~
+You are at the west wall of a small arena. The walls are
+made of a glossy metal. Every sound reverberates off the walls
+making it very hard to discern where the sounds are coming from,
+and also emphasizing any movement.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2800
+0
+D1
+~
+~
+0 0 2804
+0
+D2
+~
+~
+0 0 2802
+0
+S
+#2802
+South-West Corner~
+You are at the south-west corner of a small arena. The walls are
+made of a glossy metal. Every sound reverberates off the walls
+making it very hard to discern where the sounds are coming from,
+and also emphasizing any movement.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2801
+0
+D1
+~
+~
+0 0 2805
+0
+S
+#2803
+North Wall~
+You are at the northern wall of a small arena. The walls are
+made of a glossy metal. Every sound reverberates off the walls
+making it very hard to discern where the sounds are coming from,
+and also emphasizing any movement.
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 2806
+0
+D2
+~
+~
+0 0 2804
+0
+D3
+~
+~
+0 0 2800
+0
+S
+#2804
+Center of the Arena~
+You are at the center of a small arena. The walls are
+made of a glossy metal. Every sound reverberates off the walls
+making it very hard to discern where the sounds are coming from,
+and also emphasizing any movement.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2803
+0
+D1
+~
+~
+0 0 2807
+0
+D2
+~
+~
+0 0 2805
+0
+D3
+~
+~
+0 0 2801
+0
+S
+#2805
+South Wall~
+You are at the southern wall of a small arena. The walls are
+made of a glossy metal. Every sound reverberates off the walls
+making it very hard to discern where the sounds are coming from,
+and also emphasizing any movement.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2804
+0
+D1
+~
+~
+0 0 2808
+0
+D3
+~
+~
+0 0 2802
+0
+S
+#2806
+North-Eastern Corner~
+You are at the north-eastern corner of a small arena. The walls are
+made of a glossy metal. Every sound reverberates off the walls
+making it very hard to discern where the sounds are coming from,
+and also emphasizing any movement.
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 2807
+0
+D3
+~
+~
+0 0 2803
+0
+S
+#2807
+East Wall~
+You are at the eastern wall of a small arena. The walls are
+made of a glossy metal. Every sound reverberates off the walls
+making it very hard to discern where the sounds are coming from,
+and also emphasizing any movement.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2806
+0
+D2
+~
+~
+0 0 2808
+0
+D3
+~
+~
+0 0 2804
+0
+S
+#2808
+South-East Corner~
+You are at the south-eastern corner of a small arena. The walls are
+made of a glossy metal. Every sound reverberates off the walls
+making it very hard to discern where the sounds are coming from,
+and also emphasizing any movement.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 2807
+0
+D3
+~
+~
+0 0 2805
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,114 @@
+#PLAYER
+Nm          TestShock~
+ShtDsc      ~
+LngDsc      ~
+Dscr        ~
+Prmpt       <&Y%hhp &C%mm &G%vmv&w> ~
+Sx          1
+Cla         0 -1
+Rce         1
+Wiznet      262144
+Clan        0
+Clvl        0
+Ctmr        0
+Clslvls     0 0 0 0 0 0 0 0 0 0
+Stun        0 0 0 0 0
+WizLev      0
+ClkLev      0
+Kingdom     0
+Lvl         1
+Antidisarm  0
+Trst        0
+Security    0
+Wizbt       0
+Playd       2908
+Note        0
+Room        829
+HpMnMvBp    20 20 0 100 100 0 100 100 0 20 20 0
+Charisma    28
+Gold	      0
+Silver      0
+Copper      0
+GRank       0
+Guild       ~
+Exp         4321
+Act         587204168
+Act2        8
+AffdBy      0
+AffdBy2     0
+AffdBy3     0
+ImmBits     0
+ResBits     0
+VulBits     0
+Pos         7
+Prac        21
+SavThr      -26
+Align       0
+SAlign      N
+Hit         36
+Dam         10
+Armr        45
+Wimp        0
+Deaf        0
+Warpts      0
+Pkills      0
+Pkilled     0
+Arenawon    0
+Arenalost   0
+Incarnat    0
+Raisepts    0
+Corpses     0
+Paswd       kgkgkg~
+Mech	  (null)~
+MechDesc	  (null)~
+Bmfin       ~
+Bmfout      ~
+Bmfsee      ~
+Trnsto      ~
+Trnsfrom    ~
+Trnvict     ~
+Slyuc       ~
+Slyrm       ~
+Slyvict     ~
+Afkmes      ~
+Bank   	  0 0 0
+Ttle         the Elf Mystic~
+Whotype	  (null)~
+AtrPrm      13 16 13 13 13
+AtrMd       0 1 0 0 -1
+Cond        0 100 50
+Pglen       20
+Empower     ~
+Detract     ~
+Aff         2 217 -26  24          0 213
+Aff         2 217  26  18          0 213
+Aff         1  21 -25  17          0 213
+Aff        28 216 -30  17          0 213
+End
+
+#OBJECT
+Nest         0
+Name         book newbie~
+ShortDescr   &W(&rNEWBIE&W) &Ba book of RoE History~
+Description  A huge book is here on the floor.~
+Vnum         1
+ExtraFlags   1
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      2097152
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       5
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       0
+Values       0 1 5 8 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#END

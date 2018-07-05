@@ -1,0 +1,327 @@
+#AREADATA
+Name        Downtown~
+Levels      0 0
+Builders    Torann~
+VNUMs       1200 1499
+Security    1
+Recall      25000
+Flags       16
+Color       6
+Sounds      The sound of traffic and people on the street roars in your ears.~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#1200
+payphone pay-phone phone~
+an Old Pay-Phone~
+An International Telephone Service Pay-Phone~
+~
+40 0 0 0 0 0 0
+0~ 2~ 7014567~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0
+100
+0 0
+reserved~
+0 0
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#1200
+Pump n' Plump: West Parking Lot~
+Here is the convenience store called Pump n' Plump.  It boasts the best
+munchies in the land and fuel at a reasonable price.  Several people mill
+around inside the store, and a few kids skate the areas curbs.  A few pumps,
+and a big sign, confront the public in the middle of the lot.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 1205
+0
+D1
+~
+~
+0 0 1201
+0
+S
+#1201
+Inside Pump n' Plump~
+The air is stale inside the Pump 'n Plump.  Coolers hum on all sides of
+the store.  Customers wander the aisles looking for various goodies. 
+There's a few people standing in line to pay for gas and supplies.  Several
+cases of soda are stacked up near a broom closet and there are restrooms to
+the south.  To the west and north are the parking lots.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 1206
+0
+D2
+~
+~
+0 0 1202
+0
+D3
+~
+~
+0 0 1200
+0
+S
+#1202
+Restroom Hallway~
+This is a small hallway designed to let one enter the restrooms.  To the
+east is the ladies' room and to the south is the men's room.  The tile here
+is cracked and the ceiling seems to have had some water damage.  The floor
+is unkept and a pool of water...  or waste, seems to be puddling up from the
+men's room.  On the wall is a pay-phone.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 1201
+0
+D1
+~
+~
+0 0 1203
+0
+D2
+~
+~
+0 0 1204
+0
+S
+#1203
+Ladies' Room~
+The Ladies' Room of the Pump 'n Plump is perfumed with aerosol air
+freshener.  There are two stalls and a large make-up counter with two built
+in sinks.  The area appears to be rather clean for a public bathroom.  There
+are some loose ceiling tiles in the ceiling.  The exit is to the west.  
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 1202
+0
+S
+#1204
+Men's Room~
+The Men's Room of the Pump 'n Plump is humid, giving the air a certain
+thickness.  A &Odim&c light glows softly, revealing walls covered in water
+stains and grime.  On the floor there is a pool of &Bwater&c that has been
+leaking from the drain pipe of the sink.  The toilet is stained and it
+hasn't been cleaned for weeks.  The exit is to the north.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 1202
+0
+S
+#1205
+South-Eastern Corner of &GBroadway &Wand &RBurdick~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 1207
+0
+D1
+~
+~
+0 0 1206
+0
+D2
+~
+~
+0 0 1200
+0
+S
+#1206
+Pump n' Plump: North Parking Lot~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 1210
+0
+D2
+~
+~
+0 0 1201
+0
+D3
+~
+~
+0 0 1205
+0
+S
+#1207
+&GBroadway &Wand &RBurdick:&W Eastern Crosswalk~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 1208
+0
+D1
+~
+~
+0 0 1210
+0
+D2
+~
+~
+0 0 1205
+0
+S
+#1208
+&GBroadway &Wand &RBurdick: &WEastern Crosswalk~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 1209
+0
+D1
+~
+~
+0 0 1211
+0
+D2
+~
+~
+0 0 1207
+0
+S
+#1209
+North-Eastern Corner of &GBroadway &Wand &RBurdick~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 1212
+0
+D2
+~
+~
+0 0 1208
+0
+S
+#1210
+&REast Bound Burdick Expressway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 1211
+0
+D2
+~
+~
+0 0 1206
+0
+D3
+~
+~
+0 0 1207
+0
+S
+#1211
+&RWest Bound Burdick Expressway~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 1212
+0
+D2
+~
+~
+0 0 1210
+0
+D3
+~
+~
+0 0 1208
+0
+S
+#1212
+Northern Sidewalk of &RBurdick Expressway~
+Here lies the northern sidewalk of the street known as &RBurdick
+Expressway&c.  People shuffle along going to wherever they need to be. 
+Large groups of people push their way in and out of the club to the north
+known as &YPalidor's Palace&c, a popular hangout for street kids.  To the
+south is the street, which is covered with vehicles.  Club-goers jay walk
+and mingle they're way between the slow traffic, disregarding the crosswalk
+just to the west.  
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 1211
+0
+D3
+~
+~
+0 0 1209
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 1200 0 1202
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

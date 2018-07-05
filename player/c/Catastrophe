@@ -1,0 +1,1535 @@
+#PLAYER
+Nm          Catastrophe~
+ShtDsc      ~
+LngDsc      ~
+Dscr        ~
+Prmpt       <%hhp %mm %vmv> ~
+Sx          1
+Cla         2 -1
+Rce         15
+Wiznet      262144
+Clan        0
+Clvl        0
+Ctmr        0
+Clslvls     0 0 0 0 0 0 0 0 0 0
+Stun        0 0 0 0 0
+WizLev      0
+ClkLev      0
+Kingdom     0
+Lvl         2
+Antidisarm  0
+Trst        0
+Security    0
+Wizbt       0
+Playd       3928
+Note        993048025
+Room        25041
+HpMnMvBp    30 20 10 100 100 0 100 100 0 20 20 0
+Charisma    0
+Gold	      0
+Silver      0
+Copper      0
+GRank       0
+Guild       ~
+Exp         0
+Act         554698304
+Act2        8
+AffdBy      0
+AffdBy2     0
+AffdBy3     0
+ImmBits     0
+ResBits     0
+VulBits     0
+Pos         5
+Prac        21
+SavThr      0
+Align       0
+SAlign      N
+Hit         20
+Dam         41
+Armr        100
+Wimp        0
+Deaf        0
+Warpts      0
+Pkills      0
+Pkilled     0
+Arenawon    0
+Arenalost   0
+Incarnat    0
+Raisepts    0
+Corpses     0
+Paswd       whatever~
+Mech	  (null)~
+MechDesc	  (null)~
+Bmfin       ~
+Bmfout      ~
+Bmfsee      ~
+Trnsto      ~
+Trnsfrom    ~
+Trnvict     ~
+Slyuc       ~
+Slyrm       ~
+Slyvict     ~
+Afkmes      ~
+Bank   	  0 0 0
+Ttle        ~
+Whotype	  (null)~
+AtrPrm      13 13 13 13 13
+AtrMd       0 2 2 1 5
+Cond        0 100 50
+Pglen       20
+Empower     ~
+Detract     ~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 5 19 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         pants leather bethaven~
+ShortDescr   leather pants~
+Description  A pair of leather pants have been left here.~
+Vnum         25007
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    33
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       50
+Values       6 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         ring limestone bethaven~
+ShortDescr   &ga limestone ring&W~
+Description  &gA small limestone ring has been left here.~
+Vnum         25056
+ExtraFlags   1
+AntiClassF   0
+AntiRaceF    0
+WearFlags    3
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       2
+Values       3 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         pants leather bethaven~
+ShortDescr   leather pants~
+Description  A pair of leather pants have been left here.~
+Vnum         25007
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    33
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       50
+Values       6 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         pants leather bethaven~
+ShortDescr   leather pants~
+Description  A pair of leather pants have been left here.~
+Vnum         25007
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    33
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       50
+Values       6 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         cloak brown woolen~
+ShortDescr   &Oa brown woolen cloak&W~
+Description  &OA brown woolen cloak lies here in a pile.~
+Vnum         25011
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    1025
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       5
+Copper       0
+Values       4 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 7 20 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         pants leather bethaven~
+ShortDescr   leather pants~
+Description  A pair of leather pants have been left here.~
+Vnum         25007
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    33
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       50
+Values       5 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 6 21 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         collar dog bethaven~
+ShortDescr   dog collar~
+Description  An old ratty dog collar lies here.~
+Vnum         25058
+ExtraFlags   65
+AntiClassF   0
+AntiRaceF    0
+WearFlags    5
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       3
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       10
+Values       2 0 0 0 0 0 0 0 0 0
+Activates    5 0 1 1
+AcSpell      cure light~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 5 21 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         bottle beer bethaven~
+ShortDescr   bottle of beer~
+Description  A bottle of beer has been left here.~
+Vnum         25044
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    16385
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     17
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       5
+Values       0 10 1 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         collar dog bethaven~
+ShortDescr   dog collar~
+Description  An old ratty dog collar lies here.~
+Vnum         25058
+ExtraFlags   65
+AntiClassF   0
+AntiRaceF    0
+WearFlags    5
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       3
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       10
+Values       1 0 0 0 0 0 0 0 0 0
+Activates    5 0 1 1
+AcSpell      cure light~
+End
+
+#OBJECT
+Nest         0
+Name         longsword rusty blade bethaven~
+ShortDescr   a rusty longsword~
+Description  &OA rusty blade has been forgotten here.~
+Vnum         25009
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       5
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       10
+Values       0 2 12 1 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         bracers leather bethaven~
+ShortDescr   &Osome leather bracers&W~
+Description  &OA pair of strong leather bracers have been left here.~
+Vnum         25017
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    257
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       9
+Values       5 0 0 0 0 0 0 0 0 0
+Activates    5 0 2 2
+AcSpell      giant strength~
+End
+
+#OBJECT
+Nest         0
+Name         bracelet leather bethaven~
+ShortDescr   &Oa leather bracelet&W~
+Description  &OA stylish leather bracelet is lying here.~
+Vnum         25049
+ExtraFlags   4
+AntiClassF   0
+AntiRaceF    0
+WearFlags    4097
+WearLoc      1048576
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       25
+Values       4 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 6 18 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         bottle beer bethaven~
+ShortDescr   bottle of beer~
+Description  A bottle of beer has been left here.~
+Vnum         25044
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    16385
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     17
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       5
+Values       0 10 1 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         bracers leather bethaven~
+ShortDescr   &Osome leather bracers&W~
+Description  &OA pair of strong leather bracers have been left here.~
+Vnum         25017
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    257
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       9
+Values       6 0 0 0 0 0 0 0 0 0
+Activates    5 0 2 2
+AcSpell      giant strength~
+End
+
+#OBJECT
+Nest         0
+Name         bracelet leather bethaven~
+ShortDescr   &Oa leather bracelet&W~
+Description  &OA stylish leather bracelet is lying here.~
+Vnum         25049
+ExtraFlags   4
+AntiClassF   0
+AntiRaceF    0
+WearFlags    4097
+WearLoc      524288
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       25
+Values       3 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 4 17 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 6 18 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 6 19 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 5 19 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         longsword rusty blade bethaven~
+ShortDescr   a rusty longsword~
+Description  &OA rusty blade has been forgotten here.~
+Vnum         25009
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       5
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       10
+Values       0 3 11 1 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         collar dog bethaven~
+ShortDescr   dog collar~
+Description  An old ratty dog collar lies here.~
+Vnum         25058
+ExtraFlags   65
+AntiClassF   0
+AntiRaceF    0
+WearFlags    5
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       3
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       10
+Values       1 0 0 0 0 0 0 0 0 0
+Activates    5 0 1 1
+AcSpell      cure light~
+End
+
+#OBJECT
+Nest         0
+Name         collar dog bethaven~
+ShortDescr   dog collar~
+Description  An old ratty dog collar lies here.~
+Vnum         25058
+ExtraFlags   65
+AntiClassF   0
+AntiRaceF    0
+WearFlags    5
+WearLoc      32
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       3
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       10
+Values       3 0 0 0 0 0 0 0 0 0
+Activates    5 0 1 1
+AcSpell      cure light~
+End
+
+#OBJECT
+Nest         0
+Name         collar dog bethaven~
+ShortDescr   dog collar~
+Description  An old ratty dog collar lies here.~
+Vnum         25058
+ExtraFlags   65
+AntiClassF   0
+AntiRaceF    0
+WearFlags    5
+WearLoc      16
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       3
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       10
+Values       3 0 0 0 0 0 0 0 0 0
+Activates    5 0 1 1
+AcSpell      cure light~
+End
+
+#OBJECT
+Nest         0
+Name         bracers leather bethaven~
+ShortDescr   &Osome leather bracers&W~
+Description  &OA pair of strong leather bracers have been left here.~
+Vnum         25017
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    257
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       9
+Values       6 0 0 0 0 0 0 0 0 0
+Activates    5 0 2 2
+AcSpell      giant strength~
+End
+
+#OBJECT
+Nest         0
+Name         bracers leather bethaven~
+ShortDescr   &Osome leather bracers&W~
+Description  &OA pair of strong leather bracers have been left here.~
+Vnum         25017
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    257
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       9
+Values       5 0 0 0 0 0 0 0 0 0
+Activates    5 0 2 2
+AcSpell      giant strength~
+End
+
+#OBJECT
+Nest         0
+Name         bottle beer bethaven~
+ShortDescr   bottle of beer~
+Description  A bottle of beer has been left here.~
+Vnum         25044
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    16385
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     17
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       5
+Values       0 10 1 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         bottle beer bethaven~
+ShortDescr   bottle of beer~
+Description  A bottle of beer has been left here.~
+Vnum         25044
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    16385
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     17
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       5
+Values       0 10 1 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         bottle beer bethaven~
+ShortDescr   bottle of beer~
+Description  A bottle of beer has been left here.~
+Vnum         25044
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    16385
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     17
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       5
+Values       0 10 1 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         ring limestone bethaven~
+ShortDescr   &ga limestone ring&W~
+Description  &gA small limestone ring has been left here.~
+Vnum         25056
+ExtraFlags   1
+AntiClassF   0
+AntiRaceF    0
+WearFlags    3
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       2
+Values       2 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         ring limestone bethaven~
+ShortDescr   &ga limestone ring&W~
+Description  &gA small limestone ring has been left here.~
+Vnum         25056
+ExtraFlags   1
+AntiClassF   0
+AntiRaceF    0
+WearFlags    3
+WearLoc      8
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       2
+Values       1 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         ring limestone bethaven~
+ShortDescr   &ga limestone ring&W~
+Description  &gA small limestone ring has been left here.~
+Vnum         25056
+ExtraFlags   1
+AntiClassF   0
+AntiRaceF    0
+WearFlags    3
+WearLoc      4
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       2
+Values       3 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 5 19 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 6 20 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         bottle beer bethaven~
+ShortDescr   bottle of beer~
+Description  A bottle of beer has been left here.~
+Vnum         25044
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    16385
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     17
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       5
+Values       0 10 1 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 5 20 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         bracers leather bethaven~
+ShortDescr   &Osome leather bracers&W~
+Description  &OA pair of strong leather bracers have been left here.~
+Vnum         25017
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    257
+WearLoc      32768
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       9
+Values       7 0 0 0 0 0 0 0 0 0
+Activates    5 0 2 2
+AcSpell      giant strength~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      268435456
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 5 20 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         dagger copper bethaven~
+ShortDescr   copper dagger~
+Description  A copper dagger has been left here.~
+Vnum         25036
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      4194304
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       1
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       11
+Values       0 5 19 11 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         bottle beer bethaven~
+ShortDescr   bottle of beer~
+Description  A bottle of beer has been left here.~
+Vnum         25044
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    16385
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     17
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       5
+Values       0 10 1 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         robes purple cloth bethaven~
+ShortDescr   purple robes~
+Description  A pile of purple cloth lies here.~
+Vnum         25015
+ExtraFlags   65
+AntiClassF   0
+AntiRaceF    0
+WearFlags    9
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       5
+Level        0
+Timer        -1
+Gold         0
+Silver       5
+Copper       0
+Values       6 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         cloak brown woolen~
+ShortDescr   &Oa brown woolen cloak&W~
+Description  &OA brown woolen cloak lies here in a pile.~
+Vnum         25011
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    1025
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       5
+Copper       0
+Values       5 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         pants leather bethaven~
+ShortDescr   leather pants~
+Description  A pair of leather pants have been left here.~
+Vnum         25007
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    33
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       50
+Values       7 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         vest chain link bethaven~
+ShortDescr   a chain link vest~
+Description  &wA chain vest lies here forgotten.~
+Vnum         25004
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    9
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       6
+Level        0
+Timer        -1
+Gold         0
+Silver       5
+Copper       0
+Values       7 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         vest chain link bethaven~
+ShortDescr   a chain link vest~
+Description  &wA chain vest lies here forgotten.~
+Vnum         25004
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    9
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       6
+Level        0
+Timer        -1
+Gold         0
+Silver       5
+Copper       0
+Values       6 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         pants leather bethaven~
+ShortDescr   leather pants~
+Description  A pair of leather pants have been left here.~
+Vnum         25007
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    33
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       50
+Values       6 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         mace steel bethaven~
+ShortDescr   a steel mace~
+Description  &wA huge steel mace has been left here.~
+Vnum         25018
+ExtraFlags   256
+AntiClassF   0
+AntiRaceF    0
+WearFlags    8193
+WearLoc      2097152
+BionicFlags  0
+BionicLoc    -1
+ItemType     5
+Weight       8
+Level        0
+Timer        -1
+Gold         0
+Silver       5
+Copper       0
+Values       0 4 17 8 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         vest chain link bethaven~
+ShortDescr   a chain link vest~
+Description  &wA chain vest lies here forgotten.~
+Vnum         25004
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    9
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       6
+Level        0
+Timer        -1
+Gold         0
+Silver       5
+Copper       0
+Values       7 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         vest chain link bethaven~
+ShortDescr   a chain link vest~
+Description  &wA chain vest lies here forgotten.~
+Vnum         25004
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    9
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       6
+Level        0
+Timer        -1
+Gold         0
+Silver       5
+Copper       0
+Values       9 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         pants leather bethaven~
+ShortDescr   leather pants~
+Description  A pair of leather pants have been left here.~
+Vnum         25007
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    33
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       50
+Values       5 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         pants leather bethaven~
+ShortDescr   leather pants~
+Description  A pair of leather pants have been left here.~
+Vnum         25007
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    33
+WearLoc      4096
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       0
+Copper       50
+Values       5 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         cloak brown woolen~
+ShortDescr   &Oa brown woolen cloak&W~
+Description  &OA brown woolen cloak lies here in a pile.~
+Vnum         25011
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    1025
+WearLoc      131072
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       2
+Level        0
+Timer        -1
+Gold         0
+Silver       5
+Copper       0
+Values       6 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         vest chain link bethaven~
+ShortDescr   a chain link vest~
+Description  &wA chain vest lies here forgotten.~
+Vnum         25004
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    9
+WearLoc      1
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       6
+Level        0
+Timer        -1
+Gold         0
+Silver       5
+Copper       0
+Values       8 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#OBJECT
+Nest         0
+Name         vest chain link bethaven~
+ShortDescr   a chain link vest~
+Description  &wA chain vest lies here forgotten.~
+Vnum         25004
+ExtraFlags   0
+AntiClassF   0
+AntiRaceF    0
+WearFlags    9
+WearLoc      64
+BionicFlags  0
+BionicLoc    -1
+ItemType     9
+Weight       6
+Level        0
+Timer        -1
+Gold         0
+Silver       5
+Copper       0
+Values       7 0 0 0 0 0 0 0 0 0
+Activates    0 0 0 0
+AcSpell      reserved~
+End
+
+#END

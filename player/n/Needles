@@ -1,0 +1,113 @@
+#PLAYER
+Nm          Needles~
+ShtDsc      ~
+LngDsc      ~
+Dscr        ~
+Prmpt       <%hhp %mm %vmv> ~
+Sx          1
+Cla         2 -1
+Rce         14
+Wiznet      262144
+Clan        0
+Clvl        0
+Ctmr        0
+Clslvls     0 0 0 0 0 0 0 0 0 0
+Stun        0 0 0 0 0
+WizLev      0
+ClkLev      0
+Kingdom     0
+Lvl         200
+Antidisarm  0
+Trst        0
+Security    0
+Wizbt       0
+Playd       3641
+Note        991273774
+Room        11
+HpMnMvBp    2398 2398 0 535 1106 0 2100 2100 0 20 20 0
+Charisma    0
+Gold        0
+GRank       0
+Guild       ~
+Exp         200000
+Act         553649728
+Act2        8
+AffdBy      0
+AffdBy2     0
+AffdBy3     0
+ImmBits     0
+ResBits     0
+VulBits     0
+Pos         7
+Prac        1400
+SavThr      -14
+Align       -281
+SAlign      N
+Hit         14
+Dam         0
+Armr        45
+Wimp        0
+Deaf        0
+Warpts      0
+Pkills      0
+Pkilled     0
+Arenawon    0
+Arenalost   0
+Incarnat    0
+Raisepts    0
+Dimension   0
+Corpses     1
+Paswd       feelixxx~
+Mech	  (null)~
+MechDesc	  (null)~
+Bmfin       ~
+Bmfout      ~
+Bmfsee      ~
+Trnsto      ~
+Trnsfrom    ~
+Trnvict     ~
+Slyuc       ~
+Slyrm       ~
+Slyvict     ~
+Afkmes      ~
+Bank        0
+Ttle        ~
+Whotype	  (null)~
+AtrPrm      13 13 13 13 13
+AtrMd       0 0 20 0 0
+Cond        0 100 50
+Pglen       20
+Empower     ~
+Detract     ~
+Aff         1   0 -25  17          0 112
+Aff         2  88 -14  24          0 112
+Aff         2  88  14  18          0 112
+Aff        28  88 -30  17          0 112
+End
+
+#OBJECT
+Nest         0
+Name         coolt armor~
+ShortDescr   &BD&Wi&ba&Bm&Wo&bn&Bd&W-&bC&Bo&Wa&bt&Be&Wd &WP&zl&Wa&zt&We~
+Description  A very shiny plate rests here.~
+Vnum         1
+ExtraFlags   1
+AntiClassF   0
+AntiRaceF    0
+WearFlags    9
+WearLoc      64
+BionicFlags  0
+BionicLoc    0
+ItemType     9
+Weight       0
+Level        0
+Timer        -1
+Dimension    0
+Cost         0
+Values       3 0 0 0 0 0 0 0 0 0
+Activates    5 0 -1 -1
+AcSpell      golden aura~
+Affect       0 -1 20 4 0
+End
+
+#END

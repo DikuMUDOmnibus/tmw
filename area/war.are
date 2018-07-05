@@ -1,0 +1,1124 @@
+#AREADATA
+Name        war~
+Levels      0 0
+Builders    None~
+VNUMs       3000 3150
+Security    1
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#3148
+bullet hollow tip~
+a hollow-tip bullet~
+A hollow-tip bullet lies here.~
+~
+35 0 0 0 16385 0 0
+0~ 50~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#3149
+clip~
+a semi-automatic clip~
+A pistol clip lies here.~
+~
+34 0 0 0 16385 0 0
+0~ 50~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#3150
+heckler koch gun pistol~
+a Heckler & Koch MP-7 semi-automatic pistol~
+A pistol lies here.~
+~
+32 0 0 0 16385 0 0
+0~ 50~ 100~ 3149~ 50~ 0~ 0~ 0~ 0~ 0~
+0 0 0 0 0
+5 0
+haste~
+0 -1
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#3000
+Homebase: Team &RRed &W~
+You are standing inside a heavily fortified homebase.  Written in spray
+paint on one of the walls is the phrase "Red Rulz".  Very little sunlight
+filters in here because it is only able to come through the open door, the
+only window is just large enough for you to see through.  The floor has been
+painted red, or even possibly stained with blood of those who thought they
+could enter.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3001
+0
+S
+#3001
+Team &RRed&W Homebase Entrance~
+This si the entrance to the red team's homebase.  A single door serves as
+the only entrance.  It does look like it would be easy to get to though, a
+window provides the perfect cover for a sharpshooter and the stonework looks
+like it could be broken off the roof and used as a weapon.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3002
+0
+D2
+~
+~
+0 0 3000
+0
+S
+#3002
+A Battlefield~
+The ground here is covered in blast craters, some of them almost deep
+enough for you to fall into and never be able to get out.  A few undetonated
+bombs stick up out of the ground in some places.  Steam seems to rise up
+from the ground, making it difficult to see what is on the ground below you.
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 3011
+0
+D1
+~
+~
+0 0 3005
+0
+D2
+~
+~
+0 0 3001
+0
+D3
+~
+~
+0 0 3004
+0
+S
+#3003
+A Battlefield~
+The ground is covered in craters from the repeated blasting during the
+numerous wars fought in this area.  The crumbling remains of a wall stand to
+the east and to the south marking the boundries of the arena.  A faded sign
+stands directly in front of you reading "Danger Mine Field".  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3010
+0
+D3
+~
+~
+0 0 3005
+0
+S
+#3004
+A Battlefield~
+There is no grass here, only dirt.  The dirt is spongy, almost as if it
+could turn to mud at any second.  The battlefield is completey flat and
+cover cannot be found anywhere.  The flatness of this area gives you a good
+view of everything for miles in all direction.  
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 3007
+0
+D1
+~
+~
+0 0 3002
+0
+D3
+~
+~
+0 0 3006
+0
+S
+#3005
+A Battlefield~
+What looks like the ruins of a fortress sits in front of you.  It would
+offer no cover though, since the walls have been completely destroyed and
+reduced to piles of rubble.  Splattered blood still covers the sections of
+the fort that still stand.  
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 3009
+0
+D1
+~
+~
+0 0 3003
+0
+D3
+~
+~
+0 0 3002
+0
+S
+#3006
+A Battlefield~
+The crumbled remains of a wall mark the boundry of the war zone.  The
+burned out shell of a tank lies next to rubble.  A pair of crows sits on the
+edge of the tank, watching you curiously and possibly hoping that you will
+be their next meal.  Above you, more crows circle and call to each other.  
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 3008
+0
+D1
+~
+~
+0 0 3004
+0
+S
+#3007
+A Battlefield~
+The waist high grass here has been stained with blood.  You cannot see
+any corpses or other live injured people lying around who would have caused
+this though.  The ground is soggy and trecherous in places.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3013
+0
+D1
+~
+~
+0 0 3011
+0
+D2
+~
+~
+0 0 3004
+0
+D3
+~
+~
+0 0 3008
+0
+S
+#3008
+A Battlefield~
+The grass here is very tall and could easily conceal someone wanting to
+kill you.  The grass stands as high as your waist and the ground underneath
+your feet is very dry.  A slight breeze blows here, carrying with it the the
+smell of death.  
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 3012
+0
+D1
+~
+~
+0 0 3007
+0
+D2
+~
+~
+0 0 3006
+0
+S
+#3009
+A Battlefirled~
+The ground is becoming slighly more rocky and shards of metal are mixed
+in with the pebbles.  Looking closer, you notice that the pebbles have been
+cut and have some straight lines, while the metal is twisted as if it was
+destoyed by some great explosion.  
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 3015
+0
+D1
+~
+~
+0 0 3010
+0
+D2
+~
+~
+0 0 3005
+0
+D3
+~
+~
+0 0 3011
+0
+S
+#3010
+A Battlefield~
+The remians of a huge steel wall mark the boundry of the war zone.  The
+wall appears to have been blasted and melted from its place.  Scorch marks
+can still be seen on the parts that still stand, while huge blast craters
+mar the land in front of it.  
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 3016
+0
+D2
+~
+~
+0 0 3003
+0
+D3
+~
+~
+0 0 3009
+0
+S
+#3011
+A Battlefield~
+The grass is becoming a little shorter and offering less cover.  Spare
+weapon parts litter the ground and making moving silently nearly impossible.
+Lots of blasters and other types of guns lie near you, but are much to
+rusted and worn to be of any use.  
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 3014
+0
+D1
+~
+~
+0 0 3009
+0
+D2
+~
+~
+0 0 3002
+0
+D3
+~
+~
+0 0 3007
+0
+S
+#3012
+A battlefield~
+The grasslands continue here and the tall grass are marked with red
+stains in places and scorch marks in others.  The ground is becoming
+slightly soggy and conceals everything that falls into it.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3019
+0
+D1
+~
+~
+0 0 3013
+0
+D2
+~
+~
+0 0 3008
+0
+S
+#3013
+A Battlefield~
+This is the edge of a large forest, to the west are grasslands and the
+forest also continues to the east.  The line that marks the forest's edge is
+soaked in blood and the areas around the forest are also soaked in blood.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3022
+0
+D1
+~
+~
+0 0 3014
+0
+D2
+~
+~
+0 0 3007
+0
+D3
+~
+~
+0 0 3012
+0
+S
+#3014
+A battlefield~
+You are entering what appears to be a tiny forest.  Tiny trees stand out,
+in stark contrast to the empty field behind.  The trees appear to be oak
+trees, but do not have any leaves for you to be certain.  The ground is
+covered in tree leaves and other things that you cannot name.  
+~
+0 0 3
+Rd     0
+D0
+~
+~
+0 0 3023
+0
+D1
+~
+~
+0 0 3015
+0
+D2
+~
+~
+0 0 3011
+0
+D3
+~
+~
+0 0 3013
+0
+S
+#3015
+A Battlefield~
+This appears to be a place of death, skeletons are all over.  The
+skeletons appear to have died long ago and their mouths are open as if to
+warn that soon you too will be joining them.  One skeletal hand sticks up
+out of the ground, still clutching a gun.  
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 3024
+0
+D1
+~
+~
+0 0 3016
+0
+D2
+~
+~
+0 0 3009
+0
+D3
+~
+~
+0 0 3014
+0
+S
+#3016
+A Battlefield~
+Nearby is the blue team's base, just barely visible in the horizon. 
+Heavy fighting appears to have gone here, scorch marks are visible on the
+ground next to craters.  Overhead, you can hear the sound of approaching
+aircraft.  
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 3025
+0
+D1
+~
+~
+0 0 3017
+0
+D2
+~
+~
+0 0 3010
+0
+D3
+~
+~
+0 0 3015
+0
+S
+#3017
+Entrance to &BBl&Cue &BT&Cea&Bm &WHomebase~
+The entrance to the blue team's base is directly in front of you.  The
+homebase is made from gleaming metal and cut into the sides facing the door
+are holes to allow snipers to pick off the unwanted.  The metal has been
+painted blue in some places just to clear up any doubt as to which base this
+is.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3018
+0
+D3
+~
+~
+0 0 3016
+0
+S
+#3018
+Homebase: Team &BBl&Cue&W~
+The massive fortress that you are standing in is made from titanium alloy
+and virtually indestructable.  An armory and a cafeteria are the main
+features that this base offers.  The cafeteria is directly in front of you,
+while the armory is hidden deep within the base.  
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 3017
+0
+S
+#3019
+A Battlefield~
+The forest is very thick here and the trees soar high above your head
+blocking out all the sunlight.  The trunks of the trees are scorched and
+chipped from constant battle and the ground is covered in debris.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3026
+0
+D1
+~
+~
+0 0 3022
+0
+D2
+~
+~
+0 0 3012
+0
+D3
+~
+~
+0 0 3020
+0
+S
+#3020
+&WTeam &GGreen &WHomebase Entrance&W~
+Before you looms the ominous entrance to the green teams homebase.  The
+skeletons and blasted remians of thos foolish enough to attempt to take the
+fortress litter the ground.  The forest is exceptionally thick here and
+offers excellent cover, right up until the approach to the base.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3019
+0
+D3
+~
+~
+0 0 3021
+0
+S
+#3021
+&WHomebase: Team &GGreen&W~
+This massive fortress is made from steel alloy that has been tinted
+green.  The murder holes are present here, just like on every other base.  A
+series of potted plants hangs against the wall, apparently untouched through
+all the wars that have been fought over this building.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3020
+0
+S
+#3022
+A Battlefield~
+The forest is very thick here and the trees soar high above your head
+blocking out all the sunlight.  The trunks of the trees are scorched and
+chipped from constant battle and the ground is covered in debris.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3027
+0
+D1
+~
+~
+0 0 3023
+0
+D2
+~
+~
+0 0 3013
+0
+D3
+~
+~
+0 0 3019
+0
+S
+#3023
+A Battlefield~
+This is the edge of the forest, to the east the land becomes swampy and
+wet.  Water creeps up almost to the treeline and there is almost transition
+state between swamp and forest.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3028
+0
+D1
+~
+~
+0 0 3024
+0
+D2
+~
+~
+0 0 3014
+0
+D3
+~
+~
+0 0 3022
+0
+S
+#3024
+A Battlefield~
+A swamp begins here.  The ground has become mud and fallen trees and moss
+cover everything.  The air smells of death and decay and you wonder what
+could be hidden underneath the miasma below you.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3029
+0
+D1
+~
+~
+0 0 3025
+0
+D2
+~
+~
+0 0 3015
+0
+D3
+~
+~
+0 0 3023
+0
+S
+#3025
+A Battlefield~
+A swamp begins here.  The air smells of death and decay and you wonder
+what could be hidden underneath the miasma below you.  The ground has become
+mud and fallen trees and moss cover everything.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3030
+0
+D2
+~
+~
+0 0 3016
+0
+D3
+~
+~
+0 0 3024
+0
+S
+#3026
+A Battlefield~
+The forest suddenly becomes a wall and prevents you from travelling
+farther west.  The brushes have grow to almost monstrous heights and many an
+unwary soldier has found himself killed by one.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3031
+0
+D1
+~
+~
+0 0 3027
+0
+D2
+~
+~
+0 0 3019
+0
+S
+#3027
+A Battlefield~
+The forest is very thick here and the trees soar high above your head
+blocking out all the sunlight.  The trunks of the trees are scorched and
+chipped from constant battle and the ground is covered in debris.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3032
+0
+D1
+~
+~
+0 0 3028
+0
+D2
+~
+~
+0 0 3022
+0
+D3
+~
+~
+0 0 3026
+0
+S
+#3028
+A Battlefield~
+This is the edge of the forest, to the east the land becomes swampy and
+wet.  Water creeps up almost to the treeline and there is almost transition
+state between swamp and forest.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3033
+0
+D1
+~
+~
+0 0 3029
+0
+D2
+~
+~
+0 0 3023
+0
+D3
+~
+~
+0 0 3027
+0
+S
+#3029
+A Battlefield~
+A swamp begins here.  The ground has become mud and fallen trees and moss
+cover everything.  The air smells of death and decay and you wonder what
+could be hidden underneath the miasma below you.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3034
+0
+D1
+~
+~
+0 0 3030
+0
+D2
+~
+~
+0 0 3024
+0
+D3
+~
+~
+0 0 3028
+0
+S
+#3030
+A Battlefield~
+Pools of stangnant green water are everywhere.  Mixed in with the green
+in the water is splashes of red and also black scorch marks and many pools
+appear to have formed inside blast craters.  Dead trees reach up out the
+mire as is trying to reach the heavens above you.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3040
+0
+D2
+~
+~
+0 0 3025
+0
+D3
+~
+~
+0 0 3029
+0
+S
+#3031
+A Battlefield~
+The forest suddenly becomes a wall and prevents you from travelling
+farther west.  The brushes have grow to almost monstrous heights and many an
+unwary soldier has found himself killed by one.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3037
+0
+D1
+~
+~
+0 0 3032
+0
+D2
+~
+~
+0 0 3026
+0
+S
+#3032
+A Battlefield~
+The forest is very thick here and the trees soar high above you head
+blocking out all the sunlight.  The trunks of the trees are scorched and
+chipped from constant batttle and the ground is covered in debris.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3033
+0
+D2
+~
+~
+0 0 3027
+0
+D3
+~
+~
+0 0 3031
+0
+S
+#3033
+A Battlefield~
+A swamp begins here.  The ground has become mud and fallen trees and moss
+cover everything.  The air smells of death and decay and you wonder what
+could be hidden underneath the miasma below you.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3038
+0
+D1
+~
+~
+0 0 3034
+0
+D2
+~
+~
+0 0 3028
+0
+D3
+~
+~
+0 0 3032
+0
+S
+#3034
+A Battlefield~
+Pools of stangnant green water are everywhere.  Mixed in with the green
+in the water is splashes of red and also black scorch marks and many pools
+appear to have formed inside blast craters.  Dead trees reach up out the
+mire as is trying to reach the heavens above you.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3035
+0
+D2
+~
+~
+0 0 3029
+0
+D3
+~
+~
+0 0 3033
+0
+S
+#3035
+A Battlefield~
+Pools of stangnant green water are everywhere.  Mixed in with the green
+in the water is splashes of red and also black scorch marks and many pools
+appear to have formed inside blast craters.  Dead trees reach up out the
+mire as is trying to reach the heavens above you.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3036
+0
+D2
+~
+~
+0 0 3030
+0
+D3
+~
+~
+0 0 3034
+0
+S
+#3036
+A Battlefield~
+Pools of stangnant green water are everywhere.  Mixed in with the green
+in the water is splashes of red and also black scorch marks and many pools
+appear to have formed inside blast craters.  Dead trees reach up out the
+mire as is trying to reach the heavens above you.  
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 3035
+0
+S
+#3037
+A Battlefield~
+The forest suddenly becomes a wall and prevents you from travelling
+farther west, east, and north.  The brushes have grow to almost monstrous
+heights and many an unwary soldier has found himself killed by one.  
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 3031
+0
+S
+#3038
+A Battlefield~
+Pools of stangnant green water are everywhere.  Mixed in with the green
+in the water is splashes of red and also black scorch marks and many pools
+appear to have formed inside blast craters.  Dead trees reach up out the
+mire as is trying to reach the heavens above you.  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 3039
+0
+D2
+~
+~
+0 0 3033
+0
+S
+#3039
+A Battlefield~
+Pools of stangnant green water are everywhere.  Mixed in with the green
+in the water is splashes of red and also black scorch marks and many pools
+appear to have formed inside blast craters.  Dead trees reach up out the
+mire as is trying to reach the heavens above you.  
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 3038
+0
+S
+#3040
+&WTeam &YYellow &WHomebase Entrance&W~
+A yellow door standa at the end of the corridor.  Blood stains the ground
+in front of you, as you look at the murder holes built into the walls.  A
+huge chandalier is hanging precariously over your head and seems ready to
+fall at any time.  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 3041
+0
+D3
+~
+~
+0 0 3030
+0
+S
+#3041
+&WHomebase: Team &YYellow&W~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 3040
+0
+S
+#3042
+Troop Transport: Team &RR&re&Rd&W~
+This is where you can prepare for the iminent battle.
+Remember, in war, anything is an option. Never hesitate
+to pull the trigger, if the victim is in your sights.
+~
+0 4 0
+Rd     0
+S
+#3043
+Troop Transport: Team &BBl&Cue&W~
+This is where you can prepare for the iminent battle.
+Remember, in war, anything is an option. Never hesitate
+to pull the trigger, if the victim is in your sights.
+~
+0 4 0
+Rd     0
+S
+#3044
+Troop Transport: Team &GGr&gee&Gn&W~
+This is where you can prepare for the iminent battle.
+Remember, in war, anything is an option. Never hesitate
+to pull the trigger, if the victim is in your sights.
+~
+0 4 0
+Rd     0
+S
+#3045
+Troop Transport: Team &YY&Oe&Yll&Oo&Yw&W~
+This is where you can prepare for the iminent battle.
+Remember, in war, anything is an option. Never hesitate
+to pull the trigger, if the victim is in your sights.
+~
+0 4 0
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

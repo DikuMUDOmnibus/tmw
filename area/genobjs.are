@@ -1,0 +1,159 @@
+#AREADATA
+Name        objs~
+Levels      0 0
+Builders    None~
+VNUMs       2200 2299
+Security    1
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#2200
+Garm~
+Garm~
+Garm, the Gun Shop owner, stands here behind the counter impatiently.
+~
+You are looking at a balding middle-aged man standing behind the counter.
+He appears to not want to waste his time with window shoppers.  
+~
+3 128 0 300 S
+200 0 0 40000d0+0 0d0+0
+0 0
+0 0 1
+0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#2210
+veritech power armor~
+veritech Power Armor~
+A Veritech power armor stands here unused.~
+~
+38 0 0 0 46139881 0 0
+0~ 10~ 2~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+10 23000 0
+0
+0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+13 300
+A
+12 500
+A
+1 2
+A
+17 -400
+A
+18 40
+A
+3 -1
+A
+2 -1
+#2211
+Kently 45 Magnum gun~
+kently 45 Magnum~
+A discarded 45 magun pistol lies on the ground.~
+~
+32 0 0 0 16385 0 0
+0~ 7~ 45~ 2212~ 1~ 0~ 0~ 0~ 0~ 0~
+2 500 0
+0
+0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2212
+clip kently~
+kentley Clip~
+A clip for a Kently pistol lies here.~
+~
+34 0 0 0 16385 0 0
+0~ 12~ 45~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 20 0
+0
+0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2213
+45 calibur bullet~
+a 45 calibur bullet~
+A 45 calibur bullet lies here, unspent.~
+~
+35 65536 0 0 1 0 0
+0~ 11~ 45~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+0 0 0
+0
+3 0
+0 0
+reserved~
+0 0
+0 0 0
+#2220
+bionic hand~
+5 middle finger hand~
+A bionic hand with 5 middle fingers~
+~
+9 0 0 0 1 8 0
+0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~ 0~
+2 0 0
+0
+0 0
+1 70
+reserved~
+-1 -1
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#2200
+Garm's Gun Shop~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 0
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 2200 1 2200
+G 0 2210 0
+G 0 2211 0
+G 0 2212 0
+G 0 2213 0
+S
+
+
+
+#SHOPS
+2200 0 38 32 34 35 110 90 0 24
+0
+
+
+
+#$
